@@ -57,6 +57,7 @@
   "EnableOnlineRevocationChecks": true,
   "EncryptedClientHelloEnabled": true,
   "EnhanceSecurityMode": 2,
+  "FamilySafetySettingsEnabled": false,
   "FavoritesBarEnabled": false,
   "ImportAutofillFormData": false,
   "ImportBrowserSettings": false,
@@ -74,6 +75,7 @@
   "ImportStartupPageSettings": false,
   "HideFirstRunExperience": true,
   "HubsSidebarEnabled": false,
+  "InAppSupportEnabled": false,
   "MicrosoftEdgeInsiderPromotionEnabled": false,
   "MicrosoftEditorProofingEnabled": false,
   "NetworkPredictionOptions": 2,
@@ -85,6 +87,7 @@
   "PersonalizationReportingEnabled": false,
   "QuickSearchShowMiniMenu": false,
   "ReadAloudEnabled": false,
+  "RemoteDebuggingAllowed": false,
   "RelatedMatchesCloudServiceEnabled": false,
   "RendererAppContainerEnabled": true,
   "RendererCodeIntegrityEnabled": true,
@@ -102,6 +105,7 @@
   "TextPredictionEnabled": false,
   "TrackingPrevention": 3,
   "TranslateEnabled": false,
+  "WebCaptureEnabled": false,
   "VisualSearchEnabled": false,
   "WalletDonationEnabled": false
 }
