@@ -43,7 +43,7 @@
   "DefaultClipboardSetting": 2,
   "DefaultSensorsSetting": 2,
   "ConfigureDoNotTrack": true,
-  "DefaultShareAdditionalOSRegionSetting": false,
+  "DefaultShareAdditionalOSRegionSetting": 2,
   "DiagnosticData": 0,
   "EdgeCollectionsEnabled": false,
   "EdgeEDropEnabled": false,
