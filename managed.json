@@ -29,7 +29,7 @@
   "AdsSettingForIntrusiveAdsSites": 2,
   "AlternateErrorPagesEnabled": false,
   "AudioSandboxEnabled": true,
-  "AutoLaunchProtocolsComponentEnabled": 2,
+  "AutoLaunchProtocolsComponentEnabled": false,
   "AutofillAddressEnabled": false,
   "AutofillCreditCardEnabled": false,
   "AutofillMembershipsEnabled": false,
