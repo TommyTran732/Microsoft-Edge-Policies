@@ -5,6 +5,8 @@
   "DefaultInsecureContentSetting": 2,
   "DefaultCookiesSetting": 4,
   "DefaultThirdPartyStoragePartitioningSetting": 1,
+  "DefaultFileSystemReadGuardSetting": 2,
+  "DefaultFileSystemWriteGuardSetting": 2,
   "DefaultWebBluetoothGuardSetting": 2,
   "DefaultWebHidGuardSetting": 2,
   "ShowPDFDefaultRecommendationsEnabled": false,
