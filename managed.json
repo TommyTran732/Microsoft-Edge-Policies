@@ -118,6 +118,7 @@
   "TranslateEnabled": false,
   "UploadFromPhoneEnabled": false,
   "WebCaptureEnabled": false,
+  "WebRtcLocalhostIpHandling": "DisableNonProxiedUdp",
   "VisualSearchEnabled": false,
   "WalletDonationEnabled": false,
   "WebSQLAccess": false
