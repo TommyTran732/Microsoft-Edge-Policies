@@ -113,6 +113,7 @@
   "TextPredictionEnabled": false,
   "TrackingPrevention": 3,
   "TranslateEnabled": false,
+  "UploadFromPhoneEnabled": false,
   "WebCaptureEnabled": false,
   "VisualSearchEnabled": false,
   "WalletDonationEnabled": false
