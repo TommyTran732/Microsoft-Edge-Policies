@@ -120,6 +120,5 @@
   "WebCaptureEnabled": false,
   "WebRtcLocalhostIpHandling": "DisableNonProxiedUdp",
   "VisualSearchEnabled": false,
-  "WalletDonationEnabled": false,
-  "WebSQLAccess": false
+  "WalletDonationEnabled": false
 }
