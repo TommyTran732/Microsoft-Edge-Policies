@@ -41,6 +41,7 @@
   "BrowserNetworkTimeQueriesEnabled": false,
   "BrowserSignin": 0,
   "ComposeInlineEnabled": false,
+  "ConfigureOnlineTextToSpeech": false,
   "ConfigureShare": 1,
   "CryptoWalletEnabled": false,
   "DefaultBrowserSettingsCampaignEnabled": false,
