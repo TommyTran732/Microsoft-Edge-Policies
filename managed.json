@@ -116,5 +116,6 @@
   "UploadFromPhoneEnabled": false,
   "WebCaptureEnabled": false,
   "VisualSearchEnabled": false,
-  "WalletDonationEnabled": false
+  "WalletDonationEnabled": false,
+  "WebSQLAccess": false
 }
