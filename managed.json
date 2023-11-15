@@ -1,5 +1,6 @@
 {
   "EnableMediaRouter": false,
+  "CookiesBlockedForUrls": [ "ntp.msn.com" ],
   "DefaultGeolocationSetting": 2,
   "DefaultInsecureContentSetting": 2,
   "DefaultCookiesSetting": 4,
