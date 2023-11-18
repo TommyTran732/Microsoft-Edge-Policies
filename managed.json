@@ -23,6 +23,7 @@
   "PasswordManagerEnabled": false,
   "PinBrowserEssentialsToolbarButton": false,
   "InsecurePrivateNetworkRequestsAllowed": false,
+  "NewTabPageAllowedBackgroundTypes": 3,
   "NewTabPageAppLauncherEnabled": false,
   "NewTabPageBingChatEnabled": false,
   "NewTabPageContentEnabled": false,
