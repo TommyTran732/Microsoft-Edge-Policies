@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>EnableMediaRouter</key>
+    <false />
+    <key>CookiesBlockedForUrls</key>
+    <array>
+      <string>ntp.msn.com</string>
+    </array>
+    <key>DefaultGeolocationSetting</key>
+    <integer>2</integer>
+    <key>DefaultInsecureContentSetting</key>
+    <integer>2</integer>
+    <key>DefaultCookiesSetting</key>
+    <integer>4</integer>
+    <key>DefaultThirdPartyStoragePartitioningSetting</key>
+    <integer>1</integer>
+    <key>DefaultFileSystemReadGuardSetting</key>
+    <integer>2</integer>
+    <key>DefaultFileSystemWriteGuardSetting</key>
+    <integer>2</integer>
+    <key>DefaultWebBluetoothGuardSetting</key>
+    <integer>2</integer>
+    <key>DefaultWebHidGuardSetting</key>
+    <integer>2</integer>
+    <key>ShowPDFDefaultRecommendationsEnabled</key>
+    <false />
+    <key>SpotlightExperiencesAndRecommendationsEnabled</key>
+    <false />
+    <key>FeatureFlagOverridesControl</key>
+    <integer>1</integer>
+    <key>ExtensionInstallBlocklist</key>
+    <array>
+      <string>*</string>
+    </array>
+    <key>GamerModeEnabled</key>
+    <false />
+    <key>WindowsHelloForHTTPAuthEnabled</key>
+    <false />
+    <key>ImmersiveReaderGrammarToolsEnabled</key>
+    <false />
+    <key>EnhanceSecurityMode</key>
+    <integer>2</integer>
+  </dict>
+</plist>
