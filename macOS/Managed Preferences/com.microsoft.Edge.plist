@@ -166,5 +166,91 @@
     <false />
     <key>ImportPaymentInfo</key>
     <false />
+    <key>ImportSavedPasswords</key>
+    <false />
+    <key>ImportSearchEngine</key>
+    <false />
+    <key>ImportShortcuts</key>
+    <false />
+    <key>ImportStartupPageSettings</key>
+    <false />
+    <key>HideFirstRunExperience</key>
+    <true />
+    <key>HubsSidebarEnabled</key>
+    <false />
+    <key>InAppSupportEnabled</key>
+    <false />
+    <key>MathSolverEnabled</key>
+    <false />
+    <key>MicrosoftEdgeInsiderPromotionEnabled</key>
+    <false />
+    <key>MicrosoftEditorProofingEnabled</key>
+    <false />
+    <key>NetworkPredictionOptions</key>
+    <integer>2</integer>
+    <key>NewPDFReaderEnabled</key>
+    <false />
+    <key>PDFSecureMode</key>
+    <true />
+    <key>PromotionalTabsEnabled</key>
+    <false />
+    <key>PaymentMethodQueryEnabled</key>
+    <false />
+    <key>PersonalizationReportingEnabled</key>
+    <false />
+    <key>QuickSearchShowMiniMenu</key>
+    <false />
+    <key>QuickViewOfficeFilesEnabled</key>
+    <false />
+    <key>ReadAloudEnabled</key>
+    <false />
+    <key>RemoteDebuggingAllowed</key>
+    <false />
+    <key>RelatedMatchesCloudServiceEnabled</key>
+    <false />
+    <key>RendererAppContainerEnabled</key>
+    <true />
+    <key>RendererCodeIntegrityEnabled</key>
+    <true />
+    <key>ResolveNavigationErrorsUseWebService</key>
+    <false />
+    <key>SSLErrorOverrideAllowed</key>
+    <false />
+    <key>SearchSuggestEnabled</key>
+    <false />
+    <key>ShowAcrobatSubscriptionButton</key>
+    <false />
+    <key>ShowMicrosoftRewards</key>
+    <false />
+    <key>ShowRecommendationsEnabled</key>
+    <false />
+    <key>SSLVersionMin</key>
+    <string>tls1.2</string>
+    <key>SitePerProcess</key>
+    <false />
+    <key>SiteSafetyServicesEnabled</key>
+    <false />
+    <key>SpeechRecognitionEnabled</key>
+    <false />
+    <key>SyncDisabled</key>
+    <true />
+    <key>TabServicesEnabled</key>
+    <false />
+    <key>TextPredictionEnabled</key>
+    <false />
+    <key>TrackingPrevention</key>
+    <integer>3</integer>
+    <key>TranslateEnabled</key>
+    <false />
+    <key>UploadFromPhoneEnabled</key>
+    <false />
+    <key>WebCaptureEnabled</key>
+    <false />
+    <key>WebRtcLocalhostIpHandling</key>
+    <string>DisableNonProxiedUdp</string>
+    <key>VisualSearchEnabled</key>
+    <false />
+    <key>WalletDonationEnabled</key>
+    <false />
   </dict>
 </plist>
