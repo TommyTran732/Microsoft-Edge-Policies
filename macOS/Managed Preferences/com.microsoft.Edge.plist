@@ -122,7 +122,49 @@
     <false />
     <key>EdgeCollectionsEnabled</key>
     <false />
+    <key>EdgeEDropEnabled</key>
+    <false />
+    <key>EdgeEnhanceImagesEnabled</key>
+    <false />
+    <key>EdgeFollowEnabled</key>
+    <false />
+    <key>EdgeShoppingAssistantEnabled</key>
+    <false />
+    <key>EdgeWalletCheckoutEnabled</key>
+    <false />
+    <key>EdgeWalletEtreeEnabled</key>
+    <false />
+    <key>EditFavoritesEnabled</key>
+    <false />
+    <key>EnableOnlineRevocationChecks</key>
+    <true />
+    <key>EncryptedClientHelloEnabled</key>
+    <true />
     <key>EnhanceSecurityMode</key>
     <integer>2</integer>
+    <key>FamilySafetySettingsEnabled</key>
+    <false />
+    <key>FavoritesBarEnabled</key>
+    <false />
+    <key>ImportAutofillFormData</key>
+    <false />
+    <key>ImportBrowserSettings</key>
+    <false />
+    <key>ImportCookies</key>
+    <false />
+    <key>ImportExtensions</key>
+    <false />
+    <key>ImportFavorites</key>
+    <false />
+    <key>ImportHistory</key>
+    <false />
+    <key>ImportHomepage</key>
+    <false />
+    <key>ImportOnEachLaunch</key>
+    <false />
+    <key>ImportOpenTabs</key>
+    <false />
+    <key>ImportPaymentInfo</key>
+    <false />
   </dict>
 </plist>
