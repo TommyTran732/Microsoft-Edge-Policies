@@ -65,7 +65,7 @@
     <key>NewTabPageContentEnabled</key>
     <false />
     <key>NewTabPageHideDefaultTopSites</key>
-    <false />
+    <true />
     <key>NewTabPageQuickLinksEnabled</key>
     <false />
     <key>NewTabPageSearchBox</key>
@@ -227,7 +227,7 @@
     <key>SSLVersionMin</key>
     <string>tls1.2</string>
     <key>SitePerProcess</key>
-    <false />
+    <true />
     <key>SiteSafetyServicesEnabled</key>
     <false />
     <key>SpeechRecognitionEnabled</key>
