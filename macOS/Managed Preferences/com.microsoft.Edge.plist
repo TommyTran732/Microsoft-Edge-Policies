@@ -58,6 +58,70 @@
     <false />
     <key>NewTabPageAllowedBackgroundTypes</key>
     <integer>3</integer>
+    <key>NewTabPageAppLauncherEnabled</key>
+    <false />
+    <key>NewTabPageBingChatEnabled</key>
+    <false />
+    <key>NewTabPageContentEnabled</key>
+    <false />
+    <key>NewTabPageHideDefaultTopSites</key>
+    <false />
+    <key>NewTabPageQuickLinksEnabled</key>
+    <false />
+    <key>NewTabPageSearchBox</key>
+    <string>redirect</string>
+    <key>EdgeWorkspacesEnabled</key>
+    <false />
+    <key>AccessibilityImageLabelsEnabled</key>
+    <false />
+    <key>AdsSettingForIntrusiveAdsSites</key>
+    <integer>2</integer>
+    <key>AlternateErrorPagesEnabled</key>
+    <false />
+    <key>AudioSandboxEnabled</key>
+    <true />
+    <key>AutoLaunchProtocolsComponentEnabled</key>
+    <false />
+    <key>AutofillAddressEnabled</key>
+    <false />
+    <key>AutofillCreditCardEnabled</key>
+    <false />
+    <key>AutofillMembershipsEnabled</key>
+    <false />
+    <key>AutomaticHttpsDefault</key>
+    <integer>2</integer>
+    <key>BlockThirdPartyCookies</key>
+    <true />
+    <key>BrowserCodeIntegritySetting</key>
+    <integer>2</integer>
+    <key>BrowserNetworkTimeQueriesEnabled</key>
+    <false />
+    <key>BrowserSignin</key>
+    <integer>0</integer>
+    <key>ComposeInlineEnabled</key>
+    <false />
+    <key>ConfigureOnlineTextToSpeech</key>
+    <false />
+    <key>ConfigureShare</key>
+    <integer>1</integer>
+    <key>DefaultBrowserSettingsCampaignEnabled</key>
+    <false />
+    <key>DefaultClipboardSetting</key>
+    <integer>2</integer>
+    <key>DefaultSensorsSetting</key>
+    <integer>2</integer>
+    <key>DefaultSerialGuardSetting</key>
+    <integer>2</integer>
+    <key>ConfigureDoNotTrack</key>
+    <true />
+    <key>DefaultShareAdditionalOSRegionSetting</key>
+    <integer>2</integer>
+    <key>DiagnosticData</key>
+    <integer>0</integer>
+    <key>Edge3PSerpTelemetryEnabled</key>
+    <false />
+    <key>EdgeCollectionsEnabled</key>
+    <false />
     <key>EnhanceSecurityMode</key>
     <integer>2</integer>
   </dict>
