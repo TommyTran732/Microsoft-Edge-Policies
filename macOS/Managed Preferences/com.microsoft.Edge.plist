@@ -40,6 +40,24 @@
     <false />
     <key>ImmersiveReaderGrammarToolsEnabled</key>
     <false />
+    <key>ImmersiveReaderPictureDictionaryEnabled</key>
+    <false />
+    <key>EdgeManagementEnabled</key>
+    <false />
+    <key>MAMEnabled</key>
+    <false />
+    <key>NativeMessagingBlocklist</key>
+    <array>
+      <string>*</string>
+    </array>
+    <key>PasswordManagerEnabled</key>
+    <false />
+    <key>PinBrowserEssentialsToolbarButton</key>
+    <false />
+    <key>InsecurePrivateNetworkRequestsAllowed</key>
+    <false />
+    <key>NewTabPageAllowedBackgroundTypes</key>
+    <integer>3</integer>
     <key>EnhanceSecurityMode</key>
     <integer>2</integer>
   </dict>
