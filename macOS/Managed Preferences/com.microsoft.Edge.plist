@@ -142,6 +142,8 @@
     <true />
     <key>EnhanceSecurityMode</key>
     <integer>2</integer>
+    <key>ExperimentationAndConfigurationServiceControl</key>
+    <integer>0</integer>
     <key>FamilySafetySettingsEnabled</key>
     <false />
     <key>FavoritesBarEnabled</key>

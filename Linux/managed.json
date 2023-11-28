@@ -67,6 +67,7 @@
   "EnableOnlineRevocationChecks": true,
   "EncryptedClientHelloEnabled": true,
   "EnhanceSecurityMode": 2,
+  "ExperimentationAndConfigurationServiceControl": 0,
   "FamilySafetySettingsEnabled": false,
   "FavoritesBarEnabled": false,
   "ImportAutofillFormData": false,
