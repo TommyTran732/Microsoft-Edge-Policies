@@ -14,6 +14,6 @@ macOS is problematic, as it will wipe `/Library/Managed Preferences` every boot 
 @reboot sleep 5 && cp -r '/Library/Tomster Corporation/' '/Library/Managed Preferences'
 ```
 
-I have also noticed that Microsoft Edge does not seem to reload Managed Preferences probably until the computer reboots. I am not sure if this is a macOS behavior or if it is caused because my machine is not enrolled in an MDM.
+I have also noticed that Microsoft Edge does not seem to reload Managed Preferences probably until the computer reboots. Note that this may not work after a macOS update, and you will need to reboot the computer again for the policies to apply. I am not sure if this is a macOS behavior or if it is caused because my machine is not enrolled in an MDM.
 
 Alternatively, you can try to convert the .plist files to .mobileconfig files and install them as profiles.
