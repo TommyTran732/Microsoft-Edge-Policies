@@ -54,6 +54,8 @@
     <false />
     <key>PinBrowserEssentialsToolbarButton</key>
     <false />
+    <key>RelatedWebsiteSetsEnabled</key>
+    <false />
     <key>InsecurePrivateNetworkRequestsAllowed</key>
     <false />
     <key>NewTabPageAllowedBackgroundTypes</key>
