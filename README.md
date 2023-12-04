@@ -5,11 +5,11 @@ These policies are written with personal use in mind, so that I can configure Mi
 Smartscreen is left as recommended to be be off, as it sends the FULL URLs of what are being visted to Microsoft. I decide whether to use it or not depending on the actual system that I am using.
 
 For corporate environments, you will need make approprieate changes, including but not limited to:
-- Disabling DeveloperToolsAvailability. Users can be tricked into running malicious code in the browser console otherwise.
-- Setting DefaultWebUsbGuardSetting to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
-- Setting DefaultJavaScriptJitSetting to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
+- Disabling `DeveloperToolsAvailability`. Users can be tricked into running malicious code in the browser console otherwise.
+- Setting `DefaultWebUsbGuardSetting` to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
+- Setting `DefaultJavaScriptJitSetting` to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
 - Further restricting permissions that websites can prompt for.
-- Madating that SmartScreenEnabled is set to disabled. TyposquattingCheckerEnabled is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
+- Madating that `SmartScreenEnabled` is set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
 
 ## Linux
 
