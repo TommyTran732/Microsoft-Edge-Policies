@@ -1,5 +1,16 @@
 # Microsoft Edge Policies
 
+These policies are written with personal use in mind, so that I can configure Microsoft Edge for security and privacy on my personal systems. Certain features are disabled because I see them as unnecessary, annoying, or potentially privacy invasive. Microsoft has the tendency to implement features in the most privacy invasive way possible, so features that are not related to security are disabled unless they are explicitly documented to not have detremental effects on privacy.
+
+Smartscreen is left as recommended to be be off, as it sends the FULL URLs of what are being visted to Microsoft. I decide whether to use it or not depending on the actual system that I am using.
+
+For corporate environments, you will need make approprieate changes, including but not limited to:
+- Disabling DeveloperToolsAvailability. Users can be tricked into running malicious code in the browser console otherwise.
+- Setting DefaultWebUsbGuardSetting to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
+- Setting DefaultJavaScriptJitSetting to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
+- Further restricting permissions that websites can prompt for.
+- Forcing Smartscreen to be off. Webtypo protection is also potentially invasive, through I have not confirmed this. Please make an issue to let me know of your findings.
+
 ## Linux
 
 The mandatory prolicies should be put in `/etc/opt/edge/policies/managed/managed.json`, and the recommended policies should be put in `/etc/opt/edge/policies/recommended/recommended.json`
