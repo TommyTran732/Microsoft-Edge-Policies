@@ -9,7 +9,7 @@ For corporate environments, you will need make approprieate changes, including b
 - Setting DefaultWebUsbGuardSetting to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
 - Setting DefaultJavaScriptJitSetting to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
 - Further restricting permissions that websites can prompt for.
-- Forcing Smartscreen to be off. Webtypo protection is also potentially invasive, through I have not confirmed this. Please make an issue to let me know of your findings.
+- Madating that SmartScreenEnabled is set to disabled. TyposquattingCheckerEnabled is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
 
 ## Linux
 
