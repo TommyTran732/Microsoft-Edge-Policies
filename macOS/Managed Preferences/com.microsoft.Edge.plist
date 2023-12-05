@@ -34,6 +34,20 @@
     <array>
       <string>*</string>
     </array>
+    <key>ExtensionSettings</key>
+    <dict>
+      <key>ddkjiahejlhfcafbddmgiahcphecmpfh</key>
+      <dict>
+        <key>installation_mode</key>
+        <string>allowed</string>
+        <key>update_url</key>
+        <string>https://clients2.google.com/service/update2/crx</string>
+        <key>override_update_url</key>
+        <true />
+        <key>sidebar_auto_open_blocked</key>
+        <true />
+      </dict>
+    </dict>
     <key>GamerModeEnabled</key>
     <false />
     <key>WindowsHelloForHTTPAuthEnabled</key>

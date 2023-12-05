@@ -8,6 +8,7 @@ For corporate environments, you will need make approprieate changes, including b
 - Disable `DeveloperToolsAvailability`. Users can be tricked into running malicious code in the browser console otherwise.
 - Set `DefaultWebUsbGuardSetting` to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
 - Set `DefaultJavaScriptJitSetting` to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
+- Remove the uBlockOrigin Lite extension whitelist. I am not aware of any way to block users from granting uBlockOrigin Lite access to all content on a website, which is a security risk. If you know of a way to enforce that the extension runs permission-less, please let me know.
 - Further restrict permissions that websites can prompt for.
 - Consider removing the `Disable3DAPIs` policy. Currently, WebGL is disabled in my policies and a few sites will break, so whether to do this highly depends on your organization.
 - Consider mandating that `SmartScreenEnabled` is set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
