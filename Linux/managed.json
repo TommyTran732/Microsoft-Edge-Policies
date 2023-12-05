@@ -114,7 +114,6 @@
   "RendererAppContainerEnabled": true,
   "RendererCodeIntegrityEnabled": true,
   "ResolveNavigationErrorsUseWebService": false,
-  "SSLErrorOverrideAllowed": false,
   "SearchSuggestEnabled": false,
   "ShowAcrobatSubscriptionButton": false,
   "ShowMicrosoftRewards": false,

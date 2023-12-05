@@ -234,8 +234,6 @@
     <true />
     <key>ResolveNavigationErrorsUseWebService</key>
     <false />
-    <key>SSLErrorOverrideAllowed</key>
-    <false />
     <key>SearchSuggestEnabled</key>
     <false />
     <key>ShowAcrobatSubscriptionButton</key>

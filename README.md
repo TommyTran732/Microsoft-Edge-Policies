@@ -9,6 +9,7 @@ For corporate environments, you will need make approprieate changes, including b
 - Set `DefaultWebUsbGuardSetting` to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
 - Set `DefaultJavaScriptJitSetting` to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
 - Remove the uBlock Origin Lite extension whitelist. I am not aware of any way to block users from granting uBlock Origin Lite access to all content on a website, which is a security risk. If you know of a way to enforce that the extension runs permission-less, please let me know.
+- Set `SSLErrorOverrideAllowed` to false.
 - Further restrict permissions that websites can prompt for.
 - Consider removing the `Disable3DAPIs` policy. Currently, WebGL is disabled in my policies and a few sites will break, so whether to do this highly depends on your organization.
 - Consider mandating that `SmartScreenEnabled` is set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
@@ -16,8 +17,6 @@ For corporate environments, you will need make approprieate changes, including b
 ## Linux
 
 The mandatory prolicies should be put in `/etc/opt/edge/policies/managed/managed.json`, and the recommended policies should be put in `/etc/opt/edge/policies/recommended/recommended.json`
-
-The
 
 ## macOS
 
