@@ -56,6 +56,7 @@
   "ConfigureDoNotTrack": true,
   "DefaultShareAdditionalOSRegionSetting": 2,
   "DiagnosticData": 0,
+  "Disable3DAPIs": true,
   "Edge3PSerpTelemetryEnabled": false,
   "EdgeCollectionsEnabled": false,
   "EdgeEDropEnabled": false,

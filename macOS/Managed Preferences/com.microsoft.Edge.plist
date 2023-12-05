@@ -120,6 +120,8 @@
     <integer>2</integer>
     <key>DiagnosticData</key>
     <integer>0</integer>
+    <key>Disable3DAPIs</key>
+    <true />
     <key>Edge3PSerpTelemetryEnabled</key>
     <false />
     <key>EdgeCollectionsEnabled</key>
