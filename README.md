@@ -16,11 +16,11 @@ For corporate environments, you will need make approprieate changes, including b
 
 ## Linux
 
-The mandatory prolicies should be put in `/etc/opt/edge/policies/managed/managed.json`, and the recommended policies should be put in `/etc/opt/edge/policies/recommended/recommended.json`
+The mandatory policies should be put in `/etc/opt/edge/policies/managed/managed.json`, and the recommended policies should be put in `/etc/opt/edge/policies/recommended/recommended.json`
 
 ## macOS
 
-The mandatory prolicies should be put in `/Library/Managed Preferences/com.microsoft.Edge.plist`, and the recommended policies should be put in `/Library/Preferences/com.microsoft.Edge.plist`
+The mandatory policies should be put in `/Library/Managed Preferences/com.microsoft.Edge.plist`, and the recommended policies should be put in `/Library/Preferences/com.microsoft.Edge.plist`
 
 macOS is problematic, as it will wipe `/Library/Managed Preferences` every boot if you are not using an MDM. I work around this by putting the policies in `/Library/Tomster Corporation`, and use a cronjob as root to copy it every boot:
 
