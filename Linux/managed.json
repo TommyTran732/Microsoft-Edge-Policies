@@ -128,7 +128,6 @@
   "TrackingPrevention": 3,
   "TranslateEnabled": false,
   "UploadFromPhoneEnabled": false,
-  "WebCaptureEnabled": false,
   "WebRtcLocalhostIpHandling": "DisableNonProxiedUdp",
   "VisualSearchEnabled": false,
   "WalletDonationEnabled": false

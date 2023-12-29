@@ -262,8 +262,6 @@
     <false />
     <key>UploadFromPhoneEnabled</key>
     <false />
-    <key>WebCaptureEnabled</key>
-    <false />
     <key>WebRtcLocalhostIpHandling</key>
     <string>DisableNonProxiedUdp</string>
     <key>VisualSearchEnabled</key>
