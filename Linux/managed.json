@@ -101,6 +101,7 @@
   "MicrosoftEdgeInsiderPromotionEnabled": false,
   "MicrosoftEditorProofingEnabled": false,
   "NetworkPredictionOptions": 2,
+  "NetworkServiceSandboxEnabled": true,
   "NewPDFReaderEnabled": false,
   "PDFSecureMode": true,
   "PromotionalTabsEnabled": false,
