@@ -22,10 +22,53 @@ The mandatory policies should be put in `/etc/opt/edge/policies/managed/managed.
 
 The mandatory policies should be put in `/Library/Managed Preferences/com.microsoft.Edge.plist`, and the recommended policies should be put in `/Library/Preferences/com.microsoft.Edge.plist`
 
-macOS is problematic, as it will wipe `/Library/Managed Preferences` every boot if you are not using an MDM. I work around this by putting the policies in `/Library/Tomster Corporation`, and use a cronjob as root to copy it every boot:
+macOS is problematic, as it will wipe `/Library/Managed Preferences` every boot if you are not using an MDM. I work around this by making a fake MDM:
+
+```zsh
+umask 022
+mkdir -p Library/Tomster Corporation/scripts/ Library/Tomster Corporation/prefs/
+```
+
+Create `/Library/PrivSec Corporation/scripts/apply_prefs.sh`:
 
 ```
-@reboot sleep 5 && cp -r '/Library/Tomster Corporation/' '/Library/Managed Preferences'
+#!/bin/zsh
+/bin/sleep 5
+/bin/cp -r '/Library/PrivSec Corporation/prefs/' '/Library/Managed Preferences/'
+```
+
+Set the correct permission:
+```zsh
+chmod 744 /Library/PrivSec Corporation/scripts/apply_prefs.sh
+```
+
+Put the managed policies at `/Library/Tomster Corporation/prefs/com.microsoft.Edge.plist`
+
+Next, create `/Library/LaunchDaemons/io.tommytran.prefs.plist`:
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>dev.privsec.prefs</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>LaunchOnlyOnce</key>
+    <true/>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Library/PrivSec Corporation/scripts/apply_prefs.sh</string>
+    </array>
+</dict>
+</plist>
+```
+
+Finally, load in the service:
+
+```
+sudo launchctl load /Library/LaunchDaemons/dev.privsec.prefs.plist
 ```
 
 I have also noticed that Microsoft Edge does not seem to reload Managed Preferences probably until the computer reboots. Note that this may not work after a macOS update, and you will need to reboot the computer again for the policies to apply. I am not sure if this is a macOS behavior or if it is caused because my machine is not enrolled in an MDM.
