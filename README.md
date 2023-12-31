@@ -26,7 +26,7 @@ macOS is problematic, as it will wipe `/Library/Managed Preferences` every boot 
 
 ```zsh
 umask 022
-mkdir -p Library/Tomster Corporation/scripts/ Library/Tomster Corporation/prefs/
+mkdir -p '/Library/Tomster Corporation/scripts/' '/Library/Tomster Corporation/prefs/' '/Library/Managed Preferences'
 ```
 
 Create `/Library/PrivSec Corporation/scripts/apply_prefs.sh`:
