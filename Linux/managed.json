@@ -22,7 +22,6 @@
     }
   },
   "GamerModeEnabled": false,
-  "WindowsHelloForHTTPAuthEnabled": false,
   "ImmersiveReaderGrammarToolsEnabled": false,
   "ImmersiveReaderPictureDictionaryEnabled": false,
   "EdgeManagementEnabled": false,
@@ -112,8 +111,6 @@
   "ReadAloudEnabled": false,
   "RemoteDebuggingAllowed": false,
   "RelatedMatchesCloudServiceEnabled": false,
-  "RendererAppContainerEnabled": true,
-  "RendererCodeIntegrityEnabled": true,
   "ResolveNavigationErrorsUseWebService": false,
   "SearchSuggestEnabled": false,
   "ShowAcrobatSubscriptionButton": false,

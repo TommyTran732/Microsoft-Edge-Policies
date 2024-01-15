@@ -50,8 +50,6 @@
     </dict>
     <key>GamerModeEnabled</key>
     <false />
-    <key>WindowsHelloForHTTPAuthEnabled</key>
-    <false />
     <key>ImmersiveReaderGrammarToolsEnabled</key>
     <false />
     <key>ImmersiveReaderPictureDictionaryEnabled</key>
@@ -230,10 +228,6 @@
     <false />
     <key>RelatedMatchesCloudServiceEnabled</key>
     <false />
-    <key>RendererAppContainerEnabled</key>
-    <true />
-    <key>RendererCodeIntegrityEnabled</key>
-    <true />
     <key>ResolveNavigationErrorsUseWebService</key>
     <false />
     <key>SearchSuggestEnabled</key>
