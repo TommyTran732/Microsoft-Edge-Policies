@@ -52,14 +52,14 @@ Next, create `/Library/LaunchDaemons/io.tommytran.prefs.plist`:
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>dev.privsec.prefs</string>
+    <string>io.tommytran.prefs</string>
     <key>RunAtLoad</key>
     <true/>
     <key>LaunchOnlyOnce</key>
     <true/>
     <key>ProgramArguments</key>
     <array>
-        <string>/Library/PrivSec Corporation/scripts/apply_prefs.sh</string>
+        <string>/Library/Tomster Corporation/scripts/apply_prefs.sh</string>
     </array>
 </dict>
 </plist>
@@ -68,7 +68,7 @@ Next, create `/Library/LaunchDaemons/io.tommytran.prefs.plist`:
 Finally, load in the service:
 
 ```
-sudo launchctl load /Library/LaunchDaemons/dev.privsec.prefs.plist
+sudo launchctl load /Library/LaunchDaemons/io.tommytran.prefs.plist
 ```
 
 I have also noticed that Microsoft Edge does not seem to reload Managed Preferences probably until the computer reboots. Note that this may not work after a macOS update, and you will need to reboot the computer again for the policies to apply. I am not sure if this is a macOS behavior or if it is caused because my machine is not enrolled in an MDM.
