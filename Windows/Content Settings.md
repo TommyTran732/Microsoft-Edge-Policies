@@ -12,4 +12,5 @@
 | Control the use of File System API for reading -> Don't allow any site to request and read access to files and directories via the File System API | DefaultFileSystemReadGuardSetting: 2 |
 | Control the use of File System API for writing -> Don't allow any site to request and write access to files and directories via the File System API | DefaultFileSystemWriteGuardSetting: 2 |
 | Control use of the Web Bluetooth API -> Don't allow any site to request access to Bluetooth devices via the Web Bluetooth API |DefaultWebBluetoothGuardSetting: 2 |
+| Control use of WebHID API -> Enabled -> Don't allow any site to request access to HID devices via the WebHID API | DefaultWebHidGuardSetting: 2 |
 | Allow notifications to set Microsoft Edge as default PDF reader -> Disabled | ShowPDFDefaultRecommendationsEnabled: false |
