@@ -2,6 +2,6 @@
 
 `Computer Configuration\Policies\Administrative Templates\Microsoft Edge\Cast`
 
-| Group Policy                    | JSON equivalent           |
+| Group Policy                    | Policy equivalent         |
 |---------------------------------|---------------------------|
 | Enabled Google Cast -> Disabled | EnableMediaRouter: false  |
