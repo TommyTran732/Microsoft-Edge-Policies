@@ -2,7 +2,7 @@
 
 `Computer Configuration\Policies\Administrative Templates\Microsoft Edge\Content Settings`
 
-| Group Policy                                   | JSON equivalent                           |
+| Group Policy                                   | Policy equivalent                           |
 |------------------------------------------------|-------------------------------------------|
 | Block cookies on specific sites -> ntp.msn.com | CookiesBlockedForUrls": [ "ntp.msn.com" ] |
 | Default geolocation setting -> Enabled -> Don't allow any site to track users' physical location | DefaultGeolocationSetting: 2 |
@@ -14,3 +14,4 @@
 | Control use of the Web Bluetooth API -> Don't allow any site to request access to Bluetooth devices via the Web Bluetooth API |DefaultWebBluetoothGuardSetting: 2 |
 | Control use of WebHID API -> Enabled -> Don't allow any site to request access to HID devices via the WebHID API | DefaultWebHidGuardSetting: 2 |
 | Allow notifications to set Microsoft Edge as default PDF reader -> Disabled | ShowPDFDefaultRecommendationsEnabled: false |
+| Choose whether users can recieve customized background images and text, suggestions, notifications, and tips for Microsoft services -> Disabled | SpotlightExperiencesAndRecommendationsEnabled |
