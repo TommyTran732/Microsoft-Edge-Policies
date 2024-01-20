@@ -29,17 +29,17 @@ umask 022
 mkdir -p '/Library/Tomster Corporation/scripts/' '/Library/Tomster Corporation/prefs/' '/Library/Managed Preferences'
 ```
 
-Create `/Library/PrivSec Corporation/scripts/apply_prefs.sh`:
+Create `/Library/Tomster Corporation/scripts/apply_prefs.sh`:
 
 ```
 #!/bin/zsh
 /bin/sleep 5
-/bin/cp -r '/Library/PrivSec Corporation/prefs/' '/Library/Managed Preferences/'
+/bin/cp -r '/Library/Tomster Corporation/prefs/' '/Library/Managed Preferences/'
 ```
 
 Set the correct permission:
 ```zsh
-chmod 744 /Library/PrivSec Corporation/scripts/apply_prefs.sh
+chmod 744 '/Library/Tomster Corporation/scripts/apply_prefs.sh'
 ```
 
 Put the managed policies at `/Library/Tomster Corporation/prefs/com.microsoft.Edge.plist`
