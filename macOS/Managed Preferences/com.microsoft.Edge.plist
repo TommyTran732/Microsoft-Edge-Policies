@@ -24,6 +24,8 @@
     <integer>2</integer>
     <key>DefaultWebHidGuardSetting</key>
     <integer>2</integer>
+    <key>DefaultWindowManagementSetting</key>
+    <integer>2</integer>
     <key>ShowPDFDefaultRecommendationsEnabled</key>
     <false />
     <key>SpotlightExperiencesAndRecommendationsEnabled</key>
@@ -85,6 +87,10 @@
     <key>NewTabPageSearchBox</key>
     <string>redirect</string>
     <key>EdgeWorkspacesEnabled</key>
+    <false />
+    <key>AIGenThemesEnabled</key>
+    <false />
+    <key>AdditionalSearchBoxEnabled</key>
     <false />
     <key>AccessibilityImageLabelsEnabled</key>
     <false />
@@ -222,6 +228,8 @@
     <false />
     <key>ReadAloudEnabled</key>
     <false />
+    <key>RSAKeyUsageForLocalAnchorsEnabled</key>
+    <true />
     <key>RemoteDebuggingAllowed</key>
     <false />
     <key>RelatedMatchesCloudServiceEnabled</key>
@@ -236,13 +244,13 @@
     <false />
     <key>ShowRecommendationsEnabled</key>
     <false />
-    <key>SSLVersionMin</key>
-    <string>tls1.2</string>
     <key>SitePerProcess</key>
     <true />
     <key>SiteSafetyServicesEnabled</key>
     <false />
     <key>SpeechRecognitionEnabled</key>
+    <false />
+    <key>SuperDragDropEnabled</key>
     <false />
     <key>SyncDisabled</key>
     <true />
