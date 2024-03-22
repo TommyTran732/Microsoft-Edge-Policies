@@ -96,6 +96,8 @@
     <false />
     <key>AdsSettingForIntrusiveAdsSites</key>
     <integer>2</integer>
+    <key>AllowBackForwardCacheForCacheControlNoStorePageEnabled</key>
+    <false />
     <key>AlternateErrorPagesEnabled</key>
     <false />
     <key>AudioSandboxEnabled</key>

@@ -44,6 +44,7 @@
   "AdditionalSearchBoxEnabled": false,
   "AccessibilityImageLabelsEnabled": false,
   "AdsSettingForIntrusiveAdsSites": 2,
+  "AllowBackForwardCacheForCacheControlNoStorePageEnabled": false,
   "AlternateErrorPagesEnabled": false,
   "AudioSandboxEnabled": true,
   "AutoLaunchProtocolsComponentEnabled": false,
