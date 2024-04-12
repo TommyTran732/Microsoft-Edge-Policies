@@ -98,6 +98,7 @@
   "ImportStartupPageSettings": false,
   "HideFirstRunExperience": true,
   "HubsSidebarEnabled": false,
+  "ImageEditorServiceEnabled": false,
   "InAppSupportEnabled": false,
   "MathSolverEnabled": false,
   "MicrosoftEdgeInsiderPromotionEnabled": false,
