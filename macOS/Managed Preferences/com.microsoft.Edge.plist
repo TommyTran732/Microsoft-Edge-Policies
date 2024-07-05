@@ -52,7 +52,7 @@
     </dict>
     <key>GamerModeEnabled</key>
     <false />
-    <key>ImmersiveReaderGrammarToolsEnabled</key>
+    <key>ProactiveAuthWorkflowEnabled</key>
     <false />
     <key>ImmersiveReaderPictureDictionaryEnabled</key>
     <false />
@@ -202,11 +202,7 @@
     <true />
     <key>HubsSidebarEnabled</key>
     <false />
-    <key>ImageEditorServiceEnabled</key>
-    <false />
     <key>InAppSupportEnabled</key>
-    <false />
-    <key>MathSolverEnabled</key>
     <false />
     <key>MicrosoftEdgeInsiderPromotionEnabled</key>
     <false />

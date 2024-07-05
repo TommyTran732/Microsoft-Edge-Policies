@@ -23,7 +23,7 @@
     }
   },
   "GamerModeEnabled": false,
-  "ImmersiveReaderGrammarToolsEnabled": false,
+  "ProactiveAuthWorkflowEnabled": false,
   "ImmersiveReaderPictureDictionaryEnabled": false,
   "EdgeManagementEnabled": false,
   "MAMEnabled": false,
@@ -98,9 +98,7 @@
   "ImportStartupPageSettings": false,
   "HideFirstRunExperience": true,
   "HubsSidebarEnabled": false,
-  "ImageEditorServiceEnabled": false,
   "InAppSupportEnabled": false,
-  "MathSolverEnabled": false,
   "MicrosoftEdgeInsiderPromotionEnabled": false,
   "MicrosoftEditorProofingEnabled": false,
   "NetworkPredictionOptions": 2,
