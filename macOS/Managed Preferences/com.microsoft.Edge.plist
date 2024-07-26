@@ -54,8 +54,6 @@
     <false />
     <key>ProactiveAuthWorkflowEnabled</key>
     <false />
-    <key>ImmersiveReaderPictureDictionaryEnabled</key>
-    <false />
     <key>EdgeManagementEnabled</key>
     <false />
     <key>MAMEnabled</key>
@@ -147,8 +145,6 @@
     <key>EdgeCollectionsEnabled</key>
     <false />
     <key>EdgeEDropEnabled</key>
-    <false />
-    <key>EdgeFollowEnabled</key>
     <false />
     <key>EdgeShoppingAssistantEnabled</key>
     <false />
