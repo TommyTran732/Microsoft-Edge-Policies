@@ -126,8 +126,6 @@
     <integer>1</integer>
     <key>DefaultBrowserSettingsCampaignEnabled</key>
     <false />
-    <key>DefaultClipboardSetting</key>
-    <integer>2</integer>
     <key>DefaultSensorsSetting</key>
     <integer>2</integer>
     <key>DefaultSerialGuardSetting</key>

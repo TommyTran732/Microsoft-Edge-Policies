@@ -60,7 +60,6 @@
   "ConfigureShare": 1,
   "CryptoWalletEnabled": false,
   "DefaultBrowserSettingsCampaignEnabled": false,
-  "DefaultClipboardSetting": 2,
   "DefaultSensorsSetting": 2,
   "DefaultSerialGuardSetting": 2,
   "ConfigureDoNotTrack": true,
