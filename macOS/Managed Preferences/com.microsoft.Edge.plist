@@ -138,6 +138,8 @@
     <integer>0</integer>
     <key>Disable3DAPIs</key>
     <true />
+    <key>DynamicCodeSettings</key>
+    <integer>1</integer>
     <key>Edge3PSerpTelemetryEnabled</key>
     <false />
     <key>EdgeCollectionsEnabled</key>
@@ -240,8 +242,6 @@
     <false />
     <key>SitePerProcess</key>
     <true />
-    <key>SiteSafetyServicesEnabled</key>
-    <false />
     <key>SpeechRecognitionEnabled</key>
     <false />
     <key>SuperDragDropEnabled</key>
