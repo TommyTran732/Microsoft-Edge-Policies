@@ -4,10 +4,20 @@
   <dict>
     <key>EnableMediaRouter</key>
     <false />
+    <key>CACertificateManagementAllowed</key>
+    <integer>2</integer>
+    <key>CAPlatformIntegrationEnabled</key>
+    <false />
+    <key>AutomaticFullscreenBlockedForUrls</key>
+    <array>
+      <string>*</string>
+    </array>
     <key>CookiesBlockedForUrls</key>
     <array>
       <string>ntp.msn.com</string>
     </array>
+    <key>DefaultAutomaticDownloadsSetting</key>
+    <integer>2</integer>
     <key>DefaultGeolocationSetting</key>
     <integer>2</integer>
     <key>DefaultInsecureContentSetting</key>
@@ -50,6 +60,8 @@
         <true />
       </dict>
     </dict>
+    <key>GenAILocalFoundationalModelSettings</key>
+    <integer>1</integer>
     <key>GamerModeEnabled</key>
     <false />
     <key>ProactiveAuthWorkflowEnabled</key>
@@ -69,6 +81,8 @@
     <key>RelatedWebsiteSetsEnabled</key>
     <false />
     <key>InsecurePrivateNetworkRequestsAllowed</key>
+    <false />
+    <key>PrivateNetworkAccessRestrictionsEnabled</key>
     <false />
     <key>NewTabPageAllowedBackgroundTypes</key>
     <integer>3</integer>
@@ -217,6 +231,8 @@
     <key>PaymentMethodQueryEnabled</key>
     <false />
     <key>PersonalizationReportingEnabled</key>
+    <false />
+    <key>PersonalizeTopSitesInCustomizeSidebarEnabled</key>
     <false />
     <key>QuickSearchShowMiniMenu</key>
     <false />
