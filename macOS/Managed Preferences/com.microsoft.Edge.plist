@@ -224,6 +224,8 @@
     <true />
     <key>NewPDFReaderEnabled</key>
     <false />
+    <key>NonRemovableProfileEnabled</key>
+    <false />
     <key>PDFSecureMode</key>
     <true />
     <key>PromotionalTabsEnabled</key>

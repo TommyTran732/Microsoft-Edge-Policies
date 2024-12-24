@@ -107,6 +107,7 @@
   "NetworkPredictionOptions": 2,
   "NetworkServiceSandboxEnabled": true,
   "NewPDFReaderEnabled": false,
+  "NonRemovableProfileEnabled": false,
   "PDFSecureMode": true,
   "PromotionalTabsEnabled": false,
   "PaymentMethodQueryEnabled": false,
