@@ -66,6 +66,10 @@
     <false />
     <key>ProactiveAuthWorkflowEnabled</key>
     <false />
+    <key>SeamlessWebToBrowserSignInEnabled</key>
+    <false />
+    <key>WebToBrowserSignInEnabled</key>
+    <false />
     <key>EdgeManagementEnabled</key>
     <false />
     <key>MAMEnabled</key>
@@ -105,6 +109,8 @@
     <key>AdditionalSearchBoxEnabled</key>
     <false />
     <key>AccessibilityImageLabelsEnabled</key>
+    <false />
+    <key>AddressBarWorkSearchResultsEnabled</key>
     <false />
     <key>AdsSettingForIntrusiveAdsSites</key>
     <integer>2</integer>
@@ -156,9 +162,13 @@
     <integer>1</integer>
     <key>Edge3PSerpTelemetryEnabled</key>
     <false />
+    <key>EdgeAutofillMlEnabled</key>
+    <false />
     <key>EdgeCollectionsEnabled</key>
     <false />
     <key>EdgeEDropEnabled</key>
+    <false />
+    <key>EdgeEntraCopilotPageContext</key>
     <false />
     <key>EdgeShoppingAssistantEnabled</key>
     <false />
