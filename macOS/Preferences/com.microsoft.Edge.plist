@@ -6,5 +6,7 @@
     <false />
     <key>TyposquattingCheckerEnabled</key>
     <false />
+    <key>ScarewareBlockerProtectionEnabled</key>
+    <false />
   </dict>
 </plist>

@@ -1,4 +1,5 @@
 {
     "SmartScreenEnabled": false,
-    "TyposquattingCheckerEnabled": false
+    "TyposquattingCheckerEnabled": false,
+    "ScarewareBlockerProtectionEnabled": false
 }

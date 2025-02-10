@@ -14,7 +14,7 @@ For corporate environments, you will need make approprieate changes, including b
 - Set `SSLErrorOverrideAllowed` to false.
 - Further restrict permissions that websites can prompt for.
 - Consider removing the `Disable3DAPIs` policy. Currently, WebGL is disabled in my policies and a few sites will break, so whether to do this highly depends on your organization.
-- Consider mandating that `SmartScreenEnabled` is set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
+- Consider mandating that `SmartScreenEnabled` and `ScarewareBlockerProtectionEnabled` are set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
 
 ## Linux
 

@@ -38,7 +38,6 @@
   "InsecurePrivateNetworkRequestsAllowed": false,
   "PrivateNetworkAccessRestrictionsEnabled": false,
   "RelatedWebsiteSetsEnabled": false,
-  "ScarewareBlockerProtectionEnabled": false,
   "NewTabPageAllowedBackgroundTypes": 3,
   "NewTabPageAppLauncherEnabled": false,
   "NewTabPageBingChatEnabled": false,
