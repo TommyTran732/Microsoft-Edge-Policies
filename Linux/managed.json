@@ -4,7 +4,6 @@
   "CAPlatformIntegrationEnabled": false, 
   "AutomaticFullscreenBlockedForUrls": [ "*" ],
   "CookiesBlockedForUrls": [ "ntp.msn.com" ],
-  "DefaultAutomaticDownloadsSetting": 2,
   "DefaultGeolocationSetting": 2,
   "DefaultInsecureContentSetting": 2,
   "DefaultCookiesSetting": 4,

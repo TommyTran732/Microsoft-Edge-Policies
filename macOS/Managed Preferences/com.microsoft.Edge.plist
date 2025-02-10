@@ -16,8 +16,6 @@
     <array>
       <string>ntp.msn.com</string>
     </array>
-    <key>DefaultAutomaticDownloadsSetting</key>
-    <integer>2</integer>
     <key>DefaultGeolocationSetting</key>
     <integer>2</integer>
     <key>DefaultInsecureContentSetting</key>
