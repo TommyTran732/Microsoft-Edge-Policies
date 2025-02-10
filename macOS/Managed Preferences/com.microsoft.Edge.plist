@@ -82,6 +82,8 @@
     <false />
     <key>RelatedWebsiteSetsEnabled</key>
     <false />
+    <key>ScarewareBlockerProtectionEnabled</key>
+    <false />
     <key>InsecurePrivateNetworkRequestsAllowed</key>
     <false />
     <key>PrivateNetworkAccessRestrictionsEnabled</key>
