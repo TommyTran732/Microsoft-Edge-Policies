@@ -48,6 +48,7 @@
   "EdgeWorkspacesEnabled": false,
   "AIGenThemesEnabled": false,
   "AdditionalSearchBoxEnabled": false,
+  "AddressBarTrendingSuggestEnabled": false,
   "AccessibilityImageLabelsEnabled": false,
   "AddressBarWorkSearchResultsEnabled": false,
   "AdsSettingForIntrusiveAdsSites": 2,

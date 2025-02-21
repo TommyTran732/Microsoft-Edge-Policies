@@ -108,6 +108,8 @@
     <false />
     <key>AdditionalSearchBoxEnabled</key>
     <false />
+    <key>AddressBarTrendingSuggestEnabled</key>
+    <false />
     <key>AccessibilityImageLabelsEnabled</key>
     <false />
     <key>AddressBarWorkSearchResultsEnabled</key>
