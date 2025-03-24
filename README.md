@@ -4,7 +4,7 @@ These policies are written with personal use in mind, so that I can configure Mi
 
 Smartscreen is left as recommended to be be off, as it sends the FULL URLs of what are being visted to Microsoft. I decide whether to use it or not depending on the actual system that I am using.
 
-For corporate environments, you will need make approprieate changes, including but not limited to:
+For corporate environments, you will need make appropriate changes, including but not limited to:
 - Disable `DeveloperToolsAvailability`. Users can be tricked into running malicious code in the browser console otherwise.
 - Set `DefaultWebUsbGuardSetting` to "Block". In most cases, the websites will never need to use this API. I need it to flash GrapheneOS and StockOS on my phones.
 - Set `DefaultClipboardSetting` to "Block". In most cases, users do not need to grant this permission for websites to work. I need it for GitHub Codespaces.
