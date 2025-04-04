@@ -105,6 +105,7 @@
   "ImportShortcuts": false,
   "ImportStartupPageSettings": false,
   "HideFirstRunExperience": true,
+  "HttpsUpgradesEnabled": true,
   "HubsSidebarEnabled": false,
   "InAppSupportEnabled": false,
   "MicrosoftEdgeInsiderPromotionEnabled": false,

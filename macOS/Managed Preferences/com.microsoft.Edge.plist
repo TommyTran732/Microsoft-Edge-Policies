@@ -222,6 +222,8 @@
     <false />
     <key>HideFirstRunExperience</key>
     <true />
+    <key>HttpsUpgradesEnabled</key>
+    <true />
     <key>HubsSidebarEnabled</key>
     <false />
     <key>InAppSupportEnabled</key>
