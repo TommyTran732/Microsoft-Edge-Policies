@@ -256,8 +256,6 @@
     <false />
     <key>ReadAloudEnabled</key>
     <false />
-    <key>RSAKeyUsageForLocalAnchorsEnabled</key>
-    <true />
     <key>RemoteDebuggingAllowed</key>
     <false />
     <key>RelatedMatchesCloudServiceEnabled</key>
