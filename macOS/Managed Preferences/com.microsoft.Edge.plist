@@ -54,6 +54,10 @@
         <string>https://clients2.google.com/service/update2/crx</string>
         <key>override_update_url</key>
         <true />
+        <key>runtime_blocked_hosts</key>
+        <array>
+          <string>*://*</string>
+        </array>
         <key>sidebar_auto_open_blocked</key>
         <true />
       </dict>

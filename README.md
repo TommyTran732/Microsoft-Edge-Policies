@@ -10,7 +10,6 @@ For corporate environments, you will need make appropriate changes, including bu
 - Set `DefaultClipboardSetting` to "Block". In most cases, users do not need to grant this permission for websites to work. I need it for GitHub Codespaces.
 - Set `DefaultJavaScriptJitSetting` to "Block". This will prevent users from adding exceptions to Enhanced Security Mode.
 - Set `DefaultAutomaticDownloadsSetting` to "Block". In most cases, websites do not need this API. I need Automatic Downloads for my reMarkable tablet.
-- Remove the uBlock Origin Lite extension whitelist. I am not aware of any way to block users from granting uBlock Origin Lite access to all content on a website, which is a security risk. If you know of a way to enforce that the extension runs permission-less, please let me know.
 - Set `SSLErrorOverrideAllowed` to false.
 - Further restrict permissions that websites can prompt for.
 - Consider removing the `Disable3DAPIs` policy. Currently, WebGL is disabled in my policies and a few sites will break, so whether to do this highly depends on your organization.
