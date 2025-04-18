@@ -40,28 +40,6 @@
     <false />
     <key>FeatureFlagOverridesControl</key>
     <integer>1</integer>
-    <key>ExtensionInstallBlocklist</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>ExtensionSettings</key>
-    <dict>
-      <key>ddkjiahejlhfcafbddmgiahcphecmpfh</key>
-      <dict>
-        <key>installation_mode</key>
-        <string>allowed</string>
-        <key>update_url</key>
-        <string>https://clients2.google.com/service/update2/crx</string>
-        <key>override_update_url</key>
-        <true />
-        <key>runtime_blocked_hosts</key>
-        <array>
-          <string>*://*</string>
-        </array>
-        <key>sidebar_auto_open_blocked</key>
-        <true />
-      </dict>
-    </dict>
     <key>GenAILocalFoundationalModelSettings</key>
     <integer>1</integer>
     <key>GamerModeEnabled</key>

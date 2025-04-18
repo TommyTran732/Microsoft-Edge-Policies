@@ -17,15 +17,6 @@
   "SpotlightExperiencesAndRecommendationsEnabled": false,
   "FeatureFlagOverridesControl": 1,
   "ExtensionInstallBlocklist": [ "*" ],
-  "ExtensionSettings": {
-    "ddkjiahejlhfcafbddmgiahcphecmpfh": {
-      "installation_mode": "allowed",
-      "update_url": "https://clients2.google.com/service/update2/crx",
-      "override_update_url": true,
-      "runtime_blocked_hosts": [ "*://*" ],
-      "sidebar_auto_open_blocked": true
-    }
-  },
   "GamerModeEnabled": false,
   "GenAILocalFoundationalModelSettings": 1,
   "ProactiveAuthWorkflowEnabled": false,
