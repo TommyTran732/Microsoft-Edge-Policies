@@ -51,7 +51,6 @@
   "AutofillAddressEnabled": false,
   "AutofillCreditCardEnabled": false,
   "AutofillMembershipsEnabled": false,
-  "AutomaticHttpsDefault": 2,
   "BlockThirdPartyCookies": true,
   "BrowserCodeIntegritySetting": 2,
   "BrowserNetworkTimeQueriesEnabled": false,
