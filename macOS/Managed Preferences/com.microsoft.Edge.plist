@@ -112,8 +112,6 @@
     <false />
     <key>AutofillMembershipsEnabled</key>
     <false />
-    <key>AutomaticHttpsDefault</key>
-    <integer>2</integer>
     <key>BlockThirdPartyCookies</key>
     <true />
     <key>BrowserCodeIntegritySetting</key>
