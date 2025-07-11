@@ -22,8 +22,6 @@
     <integer>2</integer>
     <key>DefaultCookiesSetting</key>
     <integer>4</integer>
-    <key>DefaultThirdPartyStoragePartitioningSetting</key>
-    <integer>1</integer>
     <key>DefaultFileSystemReadGuardSetting</key>
     <integer>2</integer>
     <key>DefaultFileSystemWriteGuardSetting</key>
@@ -222,8 +220,6 @@
     <false />
     <key>PDFSecureMode</key>
     <true />
-    <key>PromotionalTabsEnabled</key>
-    <false />
     <key>PaymentMethodQueryEnabled</key>
     <false />
     <key>PersonalizationReportingEnabled</key>
