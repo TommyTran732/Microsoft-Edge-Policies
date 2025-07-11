@@ -206,6 +206,8 @@
     <false />
     <key>InAppSupportEnabled</key>
     <false />
+    <key>Microsoft365CopilotChatIconEnabled</key>
+    <false />
     <key>MicrosoftEdgeInsiderPromotionEnabled</key>
     <false />
     <key>MicrosoftEditorProofingEnabled</key>
