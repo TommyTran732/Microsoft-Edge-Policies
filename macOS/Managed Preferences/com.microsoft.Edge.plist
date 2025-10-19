@@ -146,6 +146,8 @@
     <false />
     <key>EdgeEDropEnabled</key>
     <false />
+    <key>EdgeHistoryAISearchEnabled</key>
+    <false />
     <key>EdgeEntraCopilotPageContext</key>
     <false />
     <key>EdgeShoppingAssistantEnabled</key>

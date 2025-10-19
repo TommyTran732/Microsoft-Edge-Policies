@@ -68,6 +68,7 @@
   "EdgeAutofillMlEnabled": false,
   "EdgeCollectionsEnabled": false,
   "EdgeEDropEnabled": false,
+  "EdgeHistoryAISearchEnabled": false,
   "EdgeEntraCopilotPageContext": false,
   "EdgeShoppingAssistantEnabled": false,
   "EdgeWalletCheckoutEnabled": false,
