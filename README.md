@@ -12,7 +12,7 @@ For corporate environments, you will need make appropriate changes, including bu
 - Set `DefaultAutomaticDownloadsSetting` to "Block". In most cases, websites do not need this API. I need Automatic Downloads for my reMarkable tablet.
 - Set `SSLErrorOverrideAllowed` to false.
 - Further restrict permissions that websites can prompt for.
-- Consider removing the `Disable3DAPIs` policy. Currently, WebGL is disabled in my policies and a few sites will break, so whether to do this highly depends on your organization.
+- Consider setting `Disable3DAPIs` to true. Some websites will not work without WebGL, so whether to do this highly depends on your organization.
 - Consider mandating that `SmartScreenEnabled` and `ScarewareBlockerProtectionEnabled` are set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
 
 ## Linux

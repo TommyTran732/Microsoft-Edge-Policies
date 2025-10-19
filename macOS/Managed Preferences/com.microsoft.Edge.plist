@@ -136,8 +136,6 @@
     <integer>2</integer>
     <key>DiagnosticData</key>
     <integer>0</integer>
-    <key>Disable3DAPIs</key>
-    <true />
     <key>DynamicCodeSettings</key>
     <integer>1</integer>
     <key>Edge3PSerpTelemetryEnabled</key>

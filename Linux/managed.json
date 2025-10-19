@@ -63,7 +63,6 @@
   "ConfigureDoNotTrack": true,
   "DefaultShareAdditionalOSRegionSetting": 2,
   "DiagnosticData": 0,
-  "Disable3DAPIs": true,
   "DynamicCodeSettings": 1,
   "Edge3PSerpTelemetryEnabled": false,
   "EdgeAutofillMlEnabled": false,
