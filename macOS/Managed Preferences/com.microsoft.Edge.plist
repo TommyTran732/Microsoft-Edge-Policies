@@ -130,6 +130,8 @@
     <integer>2</integer>
     <key>DefaultSerialGuardSetting</key>
     <integer>2</integer>
+    <key>ClearCachedImagesAndFilesOnExit</key>
+    <true />
     <key>ConfigureDoNotTrack</key>
     <true />
     <key>DefaultShareAdditionalOSRegionSetting</key>

@@ -60,6 +60,7 @@
   "DefaultBrowserSettingsCampaignEnabled": false,
   "DefaultSensorsSetting": 2,
   "DefaultSerialGuardSetting": 2,
+  "ClearCachedImagesAndFilesOnExit": true,
   "ConfigureDoNotTrack": true,
   "DefaultShareAdditionalOSRegionSetting": 2,
   "DiagnosticData": 0,
