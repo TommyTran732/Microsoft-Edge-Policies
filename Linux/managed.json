@@ -127,6 +127,7 @@
   "SpeechRecognitionEnabled": false,
   "SuperDragDropEnabled": false,
   "SyncDisabled": true,
+  "TLS13EarlyDataEnabled": false,
   "TabServicesEnabled": false,
   "TextPredictionEnabled": false,
   "TrackingPrevention": 3,

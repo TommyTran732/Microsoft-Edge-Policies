@@ -264,6 +264,8 @@
     <false />
     <key>SyncDisabled</key>
     <true />
+    <key>TLS13EarlyDataEnabled</key>
+    <false />
     <key>TabServicesEnabled</key>
     <false />
     <key>TextPredictionEnabled</key>
