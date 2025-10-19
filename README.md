@@ -13,6 +13,8 @@ For corporate environments, you will need make appropriate changes, including bu
 - Set `SSLErrorOverrideAllowed` to false.
 - Further restrict permissions that websites can prompt for.
 - Consider setting `Disable3DAPIs` to true. Some websites will not work without WebGL, so whether to do this highly depends on your organization.
+- Consider setting `DefaultFileSystemReadGuardSetting` to 2. Jitsi needs this to work, so I am not setting it.
+- Consider setting `DefaultFileSystemWriteGuardSetting` to 2. Jitsi needs this to work, so I am not setting it.
 - Consider mandating that `SmartScreenEnabled` and `ScarewareBlockerProtectionEnabled` are set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings.
 
 ## Linux
