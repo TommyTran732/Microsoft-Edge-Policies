@@ -22,10 +22,6 @@
     <integer>2</integer>
     <key>DefaultCookiesSetting</key>
     <integer>4</integer>
-    <key>DefaultFileSystemReadGuardSetting</key>
-    <integer>2</integer>
-    <key>DefaultFileSystemWriteGuardSetting</key>
-    <integer>2</integer>
     <key>DefaultWebBluetoothGuardSetting</key>
     <integer>2</integer>
     <key>DefaultWebHidGuardSetting</key>
@@ -40,7 +36,9 @@
     <integer>1</integer>
     <key>GenAILocalFoundationalModelSettings</key>
     <integer>1</integer>
-    <key>GamerModeEnabled</key>
+    <key>EdgeOpenExternalLinksWithAppSpecifiedProfile</key>
+    <false />
+    <key>GuidedSwitchEnabled</key>
     <false />
     <key>ProactiveAuthWorkflowEnabled</key>
     <false />
@@ -88,6 +86,8 @@
     <false />
     <key>AdditionalSearchBoxEnabled</key>
     <false />
+    <key>AdditionalDnsQueryTypesEnabled</key>
+    <true />
     <key>AddressBarTrendingSuggestEnabled</key>
     <false />
     <key>AccessibilityImageLabelsEnabled</key>
@@ -200,6 +200,8 @@
     <false />
     <key>HideFirstRunExperience</key>
     <true />
+    <key>HttpsOnlyMode</key>
+    <string>force_enabled</string>
     <key>HttpsUpgradesEnabled</key>
     <true />
     <key>HubsSidebarEnabled</key>
@@ -220,6 +222,8 @@
     <false />
     <key>NonRemovableProfileEnabled</key>
     <false />
+    <key>OriginKeyedProcessesEnabled</key>
+    <true />
     <key>PDFSecureMode</key>
     <true />
     <key>PaymentMethodQueryEnabled</key>
@@ -239,6 +243,8 @@
     <key>RelatedMatchesCloudServiceEnabled</key>
     <false />
     <key>ResolveNavigationErrorsUseWebService</key>
+    <false />
+    <key>RestrictCoreSharingOnRenderer</key>
     <false />
     <key>SearchSuggestEnabled</key>
     <false />
