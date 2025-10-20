@@ -266,6 +266,15 @@
     <true />
     <key>TLS13EarlyDataEnabled</key>
     <false />
+    <key>TLSCipherSuiteDenyList</key>
+    <array>
+      <string>0xc013</string>
+      <string>0xc014</string>
+      <string>0x009c</string>
+      <string>0x009d</string>
+      <string>0x002f</string>
+      <string>0x0035</string>
+    </array>
     <key>TabServicesEnabled</key>
     <false />
     <key>TextPredictionEnabled</key>

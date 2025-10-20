@@ -128,6 +128,7 @@
   "SuperDragDropEnabled": false,
   "SyncDisabled": true,
   "TLS13EarlyDataEnabled": false,
+  "TLSCipherSuiteDenyList": [ "0xc013", "0xc014", "0x009c", "0x009d", "0x002f", "0x0035" ],
   "TabServicesEnabled": false,
   "TextPredictionEnabled": false,
   "TrackingPrevention": 3,
