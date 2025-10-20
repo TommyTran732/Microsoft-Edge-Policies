@@ -204,8 +204,6 @@
     <true />
     <key>HttpsOnlyMode</key>
     <string>force_enabled</string>
-    <key>HttpsUpgradesEnabled</key>
-    <true />
     <key>HubsSidebarEnabled</key>
     <false />
     <key>InAppSupportEnabled</key>

@@ -97,7 +97,6 @@
   "ImportStartupPageSettings": false,
   "HideFirstRunExperience": true,
   "HttpsOnlyMode": "force_enabled",
-  "HttpsUpgradesEnabled": true,
   "HubsSidebarEnabled": false,
   "InAppSupportEnabled": false,
   "Microsoft365CopilotChatIconEnabled": false,
