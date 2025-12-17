@@ -60,8 +60,10 @@
     <false />
     <key>RelatedWebsiteSetsEnabled</key>
     <false />
-    <key>ScarewareBlockerProtectionEnabled</key>
-    <false />
+    <key>ScarewareBlockerSendDetectedSitesToSmartScreenEnabled</key>
+    <true />
+    <key>ScarewareBlockerBlocksDetectedSitesEnabled</key>
+    <true />
     <key>InsecurePrivateNetworkRequestsAllowed</key>
     <false />
     <key>PrivateNetworkAccessRestrictionsEnabled</key>
@@ -220,6 +222,8 @@
     <true />
     <key>NewPDFReaderEnabled</key>
     <false />
+    <key>NewPDFReaderWebView2List</key>
+    <false />
     <key>NonRemovableProfileEnabled</key>
     <false />
     <key>OriginKeyedProcessesEnabled</key>
@@ -245,6 +249,8 @@
     <key>ResolveNavigationErrorsUseWebService</key>
     <false />
     <key>RestrictCoreSharingOnRenderer</key>
+    <false />
+    <key>ShareBrowsingHistoryWithCopilotSearchAllowed</key>
     <false />
     <key>SearchSuggestEnabled</key>
     <false />
