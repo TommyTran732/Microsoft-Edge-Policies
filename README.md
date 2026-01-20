@@ -77,3 +77,6 @@ sudo launchctl load -w /Library/LaunchDaemons/io.tommytran.prefs.plist
 I have also noticed that Microsoft Edge does not seem to reload Managed Preferences probably until the computer reboots. Note that this may not work after a macOS update, and you will need to reboot the computer again for the policies to apply. I am not sure if this is a macOS behavior or if it is caused because my machine is not enrolled in an MDM.
 
 Alternatively, you can try to convert the .plist files to .mobileconfig files and install them as profiles.
+
+# Notes
+Last policy check: Jan 20, 2026 - Version 144.0.3719.82:
