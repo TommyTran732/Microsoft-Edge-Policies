@@ -18,6 +18,8 @@
     </array>
     <key>DefaultGeolocationSetting</key>
     <integer>2</integer>
+    <key>DefaultIdleDetectionSetting</key>
+    <integer>2</integer>
     <key>DefaultInsecureContentSetting</key>
     <integer>2</integer>
     <key>DefaultCookiesSetting</key>
@@ -83,6 +85,8 @@
     <key>NewTabPageSearchBox</key>
     <string>redirect</string>
     <key>EdgeWorkspacesEnabled</key>
+    <false />
+    <key>EdgeSafeHostingExtensionEnabled</key>
     <false />
     <key>AIGenThemesEnabled</key>
     <false />
@@ -260,10 +264,14 @@
     <false />
     <key>ShowRecommendationsEnabled</key>
     <false />
+    <key>SilentPrintingEnabled</key>
+    <false />
     <key>SitePerProcess</key>
     <true />
     <key>SpeechRecognitionEnabled</key>
     <false />
+    <key>StaticStorageQuotaEnabled</key>
+    <true />
     <key>SuperDragDropEnabled</key>
     <false />
     <key>SyncDisabled</key>
