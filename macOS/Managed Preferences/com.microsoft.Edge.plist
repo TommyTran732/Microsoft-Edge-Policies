@@ -220,6 +220,14 @@
     <false />
     <key>MicrosoftEditorProofingEnabled</key>
     <false />
+    <key>LocalNetworkBlockedForUrls</key>
+    <array>
+      <string>*</string>
+    </array>
+    <key>LoopbackNetworkBlockedForUrls</key>
+    <array>
+      <string>*</string>
+    </array>
     <key>NetworkPredictionOptions</key>
     <integer>2</integer>
     <key>NetworkServiceSandboxEnabled</key>

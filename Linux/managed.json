@@ -104,6 +104,8 @@
   "Microsoft365CopilotChatIconEnabled": false,
   "MicrosoftEdgeInsiderPromotionEnabled": false,
   "MicrosoftEditorProofingEnabled": false,
+  "LocalNetworkBlockedForUrls": [ "*" ],
+  "LoopbackNetworkBlockedForUrls": [ "*" ],
   "NetworkPredictionOptions": 2,
   "NetworkServiceSandboxEnabled": true,
   "NewPDFReaderEnabled": false,
