@@ -28,6 +28,7 @@
   "PinBrowserEssentialsToolbarButton": false,
   "InsecurePrivateNetworkRequestsAllowed": false,
   "PrivateNetworkAccessRestrictionsEnabled": false,
+  "ProtectedContentIdentifiersAllowed": false,
   "RelatedWebsiteSetsEnabled": false,
   "NewTabPageAllowedBackgroundTypes": 3,
   "NewTabPageAppLauncherEnabled": false,

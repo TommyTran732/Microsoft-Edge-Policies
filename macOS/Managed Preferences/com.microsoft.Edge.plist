@@ -70,6 +70,8 @@
     <false />
     <key>PrivateNetworkAccessRestrictionsEnabled</key>
     <false />
+    <key>ProtectedContentIdentifiersAllowed</key>
+    <false />
     <key>NewTabPageAllowedBackgroundTypes</key>
     <integer>3</integer>
     <key>NewTabPageAppLauncherEnabled</key>
