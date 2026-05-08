@@ -36,6 +36,10 @@
     <false />
     <key>FeatureFlagOverridesControl</key>
     <integer>1</integer>
+    <key>ExtensionInstallBlocklist</key>
+    <array>
+      <string>*</string>
+    </array>
     <key>GenAILocalFoundationalModelSettings</key>
     <integer>1</integer>
     <key>EdgeOpenExternalLinksWithAppSpecifiedProfile</key>
