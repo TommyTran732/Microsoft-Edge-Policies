@@ -96,8 +96,6 @@
     <false />
     <key>AIGenThemesEnabled</key>
     <false />
-    <key>AdditionalSearchBoxEnabled</key>
-    <false />
     <key>AdditionalDnsQueryTypesEnabled</key>
     <true />
     <key>AddressBarTrendingSuggestEnabled</key>
@@ -106,8 +104,12 @@
     <false />
     <key>AddressBarWorkSearchResultsEnabled</key>
     <false />
+    <key>AdditionalSearchBoxEnabled</key>
+    <false />
     <key>AdsSettingForIntrusiveAdsSites</key>
     <integer>2</integer>
+    <key>AllowBrowsingWithCopilot</key>
+    <false />
     <key>AllowBackForwardCacheForCacheControlNoStorePageEnabled</key>
     <false />
     <key>AlternateErrorPagesEnabled</key>
@@ -136,6 +138,8 @@
     <false />
     <key>ConfigureShare</key>
     <integer>1</integer>
+    <key>CopilotNewTabPageEnabled</key>
+    <false />
     <key>DefaultBrowserSettingsCampaignEnabled</key>
     <false />
     <key>DefaultSensorsSetting</key>
@@ -219,6 +223,8 @@
     <key>HubsSidebarEnabled</key>
     <false />
     <key>InAppSupportEnabled</key>
+    <false />
+    <key>M365LinksAutoOpenCopilotEnabled</key>
     <false />
     <key>Microsoft365CopilotChatIconEnabled</key>
     <false />
