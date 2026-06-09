@@ -24,6 +24,8 @@
     <integer>2</integer>
     <key>DefaultCookiesSetting</key>
     <integer>4</integer>
+    <key>DefaultLocalFontsSetting</key>
+    <integer>2</integer>
     <key>DefaultWebBluetoothGuardSetting</key>
     <integer>2</integer>
     <key>DefaultWebHidGuardSetting</key>
@@ -138,6 +140,8 @@
     <false />
     <key>ConfigureShare</key>
     <integer>1</integer>
+    <key>CopilotAddressBarSuggestionsEnabled</key>
+    <false />
     <key>CopilotNewTabPageEnabled</key>
     <false />
     <key>DefaultBrowserSettingsCampaignEnabled</key>
