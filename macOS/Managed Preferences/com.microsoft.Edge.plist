@@ -36,6 +36,14 @@
     <false />
     <key>SpotlightExperiencesAndRecommendationsEnabled</key>
     <false />
+    <key>CopilotPageContext</key>
+    <false />
+    <key>EdgeCopilotEnabled</key>
+    <false />
+    <key>EdgeEntraCopilotPageContext</key>
+    <false />
+    <key>Microsoft365CopilotChatIconEnabled</key>
+    <false />
     <key>FeatureFlagOverridesControl</key>
     <integer>1</integer>
     <key>ExtensionInstallBlocklist</key>
@@ -170,8 +178,6 @@
     <false />
     <key>EdgeHistoryAISearchEnabled</key>
     <false />
-    <key>EdgeEntraCopilotPageContext</key>
-    <false />
     <key>EdgeShoppingAssistantEnabled</key>
     <false />
     <key>EdgeWalletCheckoutEnabled</key>
@@ -229,8 +235,6 @@
     <key>InAppSupportEnabled</key>
     <false />
     <key>M365LinksAutoOpenCopilotEnabled</key>
-    <false />
-    <key>Microsoft365CopilotChatIconEnabled</key>
     <false />
     <key>MicrosoftEdgeInsiderPromotionEnabled</key>
     <false />
