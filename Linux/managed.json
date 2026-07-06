@@ -115,7 +115,6 @@
   "LocalNetworkBlockedForUrls": [ "*" ],
   "LoopbackNetworkBlockedForUrls": [ "*" ],
   "NetworkPredictionOptions": 2,
-  "NetworkServiceSandboxEnabled": true,
   "NewPDFReaderEnabled": false,
   "NewPDFReaderWebView2List": false,
   "NonRemovableProfileEnabled": false,

@@ -15,6 +15,7 @@ For corporate environments, you will need make appropriate changes, including bu
 - Consider setting `Disable3DAPIs` to true. Some websites will not work without WebGL, so whether to do this highly depends on your organization.
 - Consider setting `DefaultFileSystemReadGuardSetting` to 2. Jitsi needs this to work, so I am not setting it.
 - Consider setting `DefaultFileSystemWriteGuardSetting` to 2. Jitsi needs this to work, so I am not setting it.
+- Consider settings `NetworkServiceSandboxEnabled` to `true`. This setting causes Edge (or any Chromium browser for that matter) to occasionally lose cookies, so it is not enabled in my policies for now.
 - Consider mandating that `SmartScreenEnabled` and `ScarewareBlockerProtectionEnabled` are set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings. On macOS, the SmartScreenEnabled requires a real MDM, the fake one described later in this document will not work.
 
 ## Linux

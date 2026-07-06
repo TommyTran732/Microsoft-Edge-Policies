@@ -250,8 +250,6 @@
     </array>
     <key>NetworkPredictionOptions</key>
     <integer>2</integer>
-    <key>NetworkServiceSandboxEnabled</key>
-    <true />
     <key>NewPDFReaderEnabled</key>
     <false />
     <key>NewPDFReaderWebView2List</key>
