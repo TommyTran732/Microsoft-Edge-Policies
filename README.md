@@ -54,18 +54,18 @@ Next, create `/Library/LaunchDaemons/io.tommytran.prefs.plist`:
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>Label</key>
-    <string>io.tommytran.prefs</string>
-    <key>RunAtLoad</key>
-    <true/>
-    <key>LaunchOnlyOnce</key>
-    <true/>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/Library/Tomster Corporation/scripts/apply_prefs.sh</string>
-    </array>
-</dict>
+    <dict>
+        <key>Label</key>
+        <string>io.tommytran.prefs</string>
+        <key>RunAtLoad</key>
+        <true />
+        <key>LaunchOnlyOnce</key>
+        <true />
+        <key>ProgramArguments</key>
+        <array>
+            <string>/Library/Tomster Corporation/scripts/apply_prefs.sh</string>
+        </array>
+    </dict>
 </plist>
 ```
 
