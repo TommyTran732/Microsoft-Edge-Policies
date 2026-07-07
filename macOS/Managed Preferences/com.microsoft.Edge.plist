@@ -1,333 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>EnableMediaRouter</key>
-    <false />
-    <key>CACertificateManagementAllowed</key>
-    <integer>2</integer>
-    <key>CAPlatformIntegrationEnabled</key>
-    <false />
-    <key>AutomaticFullscreenBlockedForUrls</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>CookiesBlockedForUrls</key>
-    <array>
-      <string>ntp.msn.com</string>
-    </array>
-    <key>DefaultGeolocationSetting</key>
-    <integer>2</integer>
-    <key>DefaultIdleDetectionSetting</key>
-    <integer>2</integer>
-    <key>DefaultInsecureContentSetting</key>
-    <integer>2</integer>
-    <key>DefaultCookiesSetting</key>
-    <integer>4</integer>
-    <key>DefaultLocalFontsSetting</key>
-    <integer>2</integer>
-    <key>DefaultWebBluetoothGuardSetting</key>
-    <integer>2</integer>
-    <key>DefaultWebHidGuardSetting</key>
-    <integer>2</integer>
-    <key>DefaultWindowManagementSetting</key>
-    <integer>2</integer>
-    <key>ShowPDFDefaultRecommendationsEnabled</key>
-    <false />
-    <key>SpotlightExperiencesAndRecommendationsEnabled</key>
-    <false />
-    <key>CopilotPageContext</key>
-    <false />
-    <key>EdgeCopilotEnabled</key>
-    <false />
-    <key>EdgeEntraCopilotPageContext</key>
-    <false />
-    <key>Microsoft365CopilotChatIconEnabled</key>
-    <false />
-    <key>FeatureFlagOverridesControl</key>
-    <integer>1</integer>
-    <key>ExtensionInstallBlocklist</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>GenAILocalFoundationalModelSettings</key>
-    <integer>1</integer>
-    <key>EdgeOpenExternalLinksWithAppSpecifiedProfile</key>
-    <false />
-    <key>GuidedSwitchEnabled</key>
-    <false />
-    <key>ProactiveAuthWorkflowEnabled</key>
-    <false />
-    <key>SeamlessWebToBrowserSignInEnabled</key>
-    <false />
-    <key>WebToBrowserSignInEnabled</key>
-    <false />
-    <key>EdgeManagementEnabled</key>
-    <false />
-    <key>MAMEnabled</key>
-    <false />
-    <key>NativeMessagingBlocklist</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>PasswordManagerEnabled</key>
-    <false />
-    <key>PinBrowserEssentialsToolbarButton</key>
-    <false />
-    <key>RelatedWebsiteSetsEnabled</key>
-    <false />
-    <key>ScarewareBlockerSendDetectedSitesToSmartScreenEnabled</key>
-    <true />
-    <key>ScarewareBlockerBlocksDetectedSitesEnabled</key>
-    <true />
-    <key>InsecurePrivateNetworkRequestsAllowed</key>
-    <false />
-    <key>PrivateNetworkAccessRestrictionsEnabled</key>
-    <false />
-    <key>ProtectedContentIdentifiersAllowed</key>
-    <false />
-    <key>NewTabPageAllowedBackgroundTypes</key>
-    <integer>3</integer>
-    <key>NewTabPageAppLauncherEnabled</key>
-    <false />
-    <key>NewTabPageBingChatEnabled</key>
-    <false />
-    <key>NewTabPageContentEnabled</key>
-    <false />
-    <key>NewTabPageHideDefaultTopSites</key>
-    <true />
-    <key>NewTabPageQuickLinksEnabled</key>
-    <false />
-    <key>NewTabPageSearchBox</key>
-    <string>redirect</string>
-    <key>EdgeWorkspacesEnabled</key>
-    <false />
-    <key>EdgeSafeHostingExtensionEnabled</key>
-    <false />
-    <key>AIGenThemesEnabled</key>
-    <false />
-    <key>AdditionalDnsQueryTypesEnabled</key>
-    <true />
-    <key>AddressBarTrendingSuggestEnabled</key>
-    <false />
-    <key>AccessibilityImageLabelsEnabled</key>
-    <false />
-    <key>AddressBarWorkSearchResultsEnabled</key>
-    <false />
-    <key>AdditionalSearchBoxEnabled</key>
-    <false />
-    <key>AdsSettingForIntrusiveAdsSites</key>
-    <integer>2</integer>
-    <key>AllowBrowsingWithCopilot</key>
-    <false />
-    <key>AllowBackForwardCacheForCacheControlNoStorePageEnabled</key>
-    <false />
-    <key>AlternateErrorPagesEnabled</key>
-    <false />
-    <key>AudioSandboxEnabled</key>
-    <true />
-    <key>AutoLaunchProtocolsComponentEnabled</key>
-    <false />
-    <key>AutofillAddressEnabled</key>
-    <false />
-    <key>AutofillCreditCardEnabled</key>
-    <false />
-    <key>AutofillMembershipsEnabled</key>
-    <false />
-    <key>BlockThirdPartyCookies</key>
-    <true />
-    <key>BrowserCodeIntegritySetting</key>
-    <integer>2</integer>
-    <key>BrowserNetworkTimeQueriesEnabled</key>
-    <false />
-    <key>BrowserSignin</key>
-    <integer>0</integer>
-    <key>ComposeInlineEnabled</key>
-    <false />
-    <key>ConfigureOnlineTextToSpeech</key>
-    <false />
-    <key>ConfigureShare</key>
-    <integer>1</integer>
-    <key>CopilotAddressBarSuggestionsEnabled</key>
-    <false />
-    <key>CopilotNewTabPageEnabled</key>
-    <false />
-    <key>DefaultBrowserSettingsCampaignEnabled</key>
-    <false />
-    <key>DefaultSensorsSetting</key>
-    <integer>2</integer>
-    <key>DefaultSerialGuardSetting</key>
-    <integer>2</integer>
-    <key>ClearCachedImagesAndFilesOnExit</key>
-    <true />
-    <key>ConfigureDoNotTrack</key>
-    <true />
-    <key>DefaultShareAdditionalOSRegionSetting</key>
-    <integer>2</integer>
-    <key>DiagnosticData</key>
-    <integer>0</integer>
-    <key>DynamicCodeSettings</key>
-    <integer>1</integer>
-    <key>Edge3PSerpTelemetryEnabled</key>
-    <false />
-    <key>EdgeAutofillMlEnabled</key>
-    <false />
-    <key>EdgeCollectionsEnabled</key>
-    <false />
-    <key>EdgeEDropEnabled</key>
-    <false />
-    <key>EdgeHistoryAISearchEnabled</key>
-    <false />
-    <key>EdgeShoppingAssistantEnabled</key>
-    <false />
-    <key>EdgeWalletCheckoutEnabled</key>
-    <false />
-    <key>EdgeWalletEtreeEnabled</key>
-    <false />
-    <key>EditFavoritesEnabled</key>
-    <false />
-    <key>EnableOnlineRevocationChecks</key>
-    <true />
-    <key>EncryptedClientHelloEnabled</key>
-    <true />
-    <key>EnhanceSecurityMode</key>
-    <integer>2</integer>
-    <key>ExperimentationAndConfigurationServiceControl</key>
-    <integer>0</integer>
-    <key>FamilySafetySettingsEnabled</key>
-    <false />
-    <key>FavoritesBarEnabled</key>
-    <false />
-    <key>ImportAutofillFormData</key>
-    <false />
-    <key>ImportBrowserSettings</key>
-    <false />
-    <key>ImportCookies</key>
-    <false />
-    <key>ImportExtensions</key>
-    <false />
-    <key>ImportFavorites</key>
-    <false />
-    <key>ImportHistory</key>
-    <false />
-    <key>ImportHomepage</key>
-    <false />
-    <key>ImportOnEachLaunch</key>
-    <false />
-    <key>ImportOpenTabs</key>
-    <false />
-    <key>ImportPaymentInfo</key>
-    <false />
-    <key>ImportSavedPasswords</key>
-    <false />
-    <key>ImportSearchEngine</key>
-    <false />
-    <key>ImportShortcuts</key>
-    <false />
-    <key>ImportStartupPageSettings</key>
-    <false />
-    <key>HideFirstRunExperience</key>
-    <true />
-    <key>HttpsOnlyMode</key>
-    <string>force_enabled</string>
-    <key>HubsSidebarEnabled</key>
-    <false />
-    <key>InAppSupportEnabled</key>
-    <false />
-    <key>M365LinksAutoOpenCopilotEnabled</key>
-    <false />
-    <key>MicrosoftEdgeInsiderPromotionEnabled</key>
-    <false />
-    <key>MicrosoftEditorProofingEnabled</key>
-    <false />
-    <key>LocalNetworkBlockedForUrls</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>LoopbackNetworkBlockedForUrls</key>
-    <array>
-      <string>*</string>
-    </array>
-    <key>NetworkPredictionOptions</key>
-    <integer>2</integer>
-    <key>NewPDFReaderEnabled</key>
-    <false />
-    <key>NewPDFReaderWebView2List</key>
-    <false />
-    <key>NonRemovableProfileEnabled</key>
-    <false />
-    <key>OriginKeyedProcessesEnabled</key>
-    <true />
-    <key>PDFSecureMode</key>
-    <true />
-    <key>PaymentMethodQueryEnabled</key>
-    <false />
-    <key>PersonalizationReportingEnabled</key>
-    <false />
-    <key>PersonalizeTopSitesInCustomizeSidebarEnabled</key>
-    <false />
-    <key>QuickSearchShowMiniMenu</key>
-    <false />
-    <key>QuickViewOfficeFilesEnabled</key>
-    <false />
-    <key>ReadAloudEnabled</key>
-    <false />
-    <key>RemoteDebuggingAllowed</key>
-    <false />
-    <key>RelatedMatchesCloudServiceEnabled</key>
-    <false />
-    <key>ResolveNavigationErrorsUseWebService</key>
-    <false />
-    <key>RestrictCoreSharingOnRenderer</key>
-    <false />
-    <key>ShareBrowsingHistoryWithCopilotSearchAllowed</key>
-    <false />
-    <key>SearchSuggestEnabled</key>
-    <false />
-    <key>ShowAcrobatSubscriptionButton</key>
-    <false />
-    <key>ShowMicrosoftRewards</key>
-    <false />
-    <key>ShowRecommendationsEnabled</key>
-    <false />
-    <key>SilentPrintingEnabled</key>
-    <false />
-    <key>SitePerProcess</key>
-    <true />
-    <key>SpeechRecognitionEnabled</key>
-    <false />
-    <key>StaticStorageQuotaEnabled</key>
-    <true />
-    <key>SuperDragDropEnabled</key>
-    <false />
-    <key>SyncDisabled</key>
-    <true />
-    <key>TLS13EarlyDataEnabled</key>
-    <false />
-    <key>TLSCipherSuiteDenyList</key>
-    <array>
-      <string>0xc013</string>
-      <string>0xc014</string>
-      <string>0x009c</string>
-      <string>0x009d</string>
-      <string>0x002f</string>
-      <string>0x0035</string>
-    </array>
-    <key>TabServicesEnabled</key>
-    <false />
-    <key>TextPredictionEnabled</key>
-    <false />
-    <key>TrackingPrevention</key>
-    <integer>3</integer>
-    <key>TranslateEnabled</key>
-    <false />
-    <key>UploadFromPhoneEnabled</key>
-    <false />
-    <key>WebRtcLocalhostIpHandling</key>
-    <string>DisableNonProxiedUdp</string>
-    <key>VisualSearchEnabled</key>
-    <false />
-    <key>WalletDonationEnabled</key>
-    <false />
-  </dict>
+    <dict>
+        <key>EnableMediaRouter</key>
+        <false />
+        <key>CACertificateManagementAllowed</key>
+        <integer>2</integer>
+        <key>CAPlatformIntegrationEnabled</key>
+        <false />
+        <key>AutomaticFullscreenBlockedForUrls</key>
+        <array>
+            <string>*</string>
+        </array>
+        <key>CookiesBlockedForUrls</key>
+        <array>
+            <string>ntp.msn.com</string>
+        </array>
+        <key>DefaultGeolocationSetting</key>
+        <integer>2</integer>
+        <key>DefaultIdleDetectionSetting</key>
+        <integer>2</integer>
+        <key>DefaultInsecureContentSetting</key>
+        <integer>2</integer>
+        <key>DefaultCookiesSetting</key>
+        <integer>4</integer>
+        <key>DefaultLocalFontsSetting</key>
+        <integer>2</integer>
+        <key>DefaultWebBluetoothGuardSetting</key>
+        <integer>2</integer>
+        <key>DefaultWebHidGuardSetting</key>
+        <integer>2</integer>
+        <key>DefaultWindowManagementSetting</key>
+        <integer>2</integer>
+        <key>ShowPDFDefaultRecommendationsEnabled</key>
+        <false />
+        <key>SpotlightExperiencesAndRecommendationsEnabled</key>
+        <false />
+        <key>CopilotPageContext</key>
+        <false />
+        <key>EdgeCopilotEnabled</key>
+        <false />
+        <key>EdgeEntraCopilotPageContext</key>
+        <false />
+        <key>Microsoft365CopilotChatIconEnabled</key>
+        <false />
+        <key>FeatureFlagOverridesControl</key>
+        <integer>1</integer>
+        <key>ExtensionInstallBlocklist</key>
+        <array>
+            <string>*</string>
+        </array>
+        <key>GenAILocalFoundationalModelSettings</key>
+        <integer>1</integer>
+        <key>EdgeOpenExternalLinksWithAppSpecifiedProfile</key>
+        <false />
+        <key>GuidedSwitchEnabled</key>
+        <false />
+        <key>ProactiveAuthWorkflowEnabled</key>
+        <false />
+        <key>SeamlessWebToBrowserSignInEnabled</key>
+        <false />
+        <key>WebToBrowserSignInEnabled</key>
+        <false />
+        <key>EdgeManagementEnabled</key>
+        <false />
+        <key>MAMEnabled</key>
+        <false />
+        <key>NativeMessagingBlocklist</key>
+        <array>
+            <string>*</string>
+        </array>
+        <key>PasswordManagerEnabled</key>
+        <false />
+        <key>PinBrowserEssentialsToolbarButton</key>
+        <false />
+        <key>RelatedWebsiteSetsEnabled</key>
+        <false />
+        <key>ScarewareBlockerSendDetectedSitesToSmartScreenEnabled</key>
+        <true />
+        <key>ScarewareBlockerBlocksDetectedSitesEnabled</key>
+        <true />
+        <key>InsecurePrivateNetworkRequestsAllowed</key>
+        <false />
+        <key>PrivateNetworkAccessRestrictionsEnabled</key>
+        <false />
+        <key>ProtectedContentIdentifiersAllowed</key>
+        <false />
+        <key>NewTabPageAllowedBackgroundTypes</key>
+        <integer>3</integer>
+        <key>NewTabPageAppLauncherEnabled</key>
+        <false />
+        <key>NewTabPageBingChatEnabled</key>
+        <false />
+        <key>NewTabPageContentEnabled</key>
+        <false />
+        <key>NewTabPageHideDefaultTopSites</key>
+        <true />
+        <key>NewTabPageQuickLinksEnabled</key>
+        <false />
+        <key>NewTabPageSearchBox</key>
+        <string>redirect</string>
+        <key>EdgeWorkspacesEnabled</key>
+        <false />
+        <key>EdgeSafeHostingExtensionEnabled</key>
+        <false />
+        <key>AIGenThemesEnabled</key>
+        <false />
+        <key>AdditionalDnsQueryTypesEnabled</key>
+        <true />
+        <key>AddressBarTrendingSuggestEnabled</key>
+        <false />
+        <key>AccessibilityImageLabelsEnabled</key>
+        <false />
+        <key>AddressBarWorkSearchResultsEnabled</key>
+        <false />
+        <key>AdditionalSearchBoxEnabled</key>
+        <false />
+        <key>AdsSettingForIntrusiveAdsSites</key>
+        <integer>2</integer>
+        <key>AllowBrowsingWithCopilot</key>
+        <false />
+        <key>AllowBackForwardCacheForCacheControlNoStorePageEnabled</key>
+        <false />
+        <key>AlternateErrorPagesEnabled</key>
+        <false />
+        <key>AudioSandboxEnabled</key>
+        <true />
+        <key>AutoLaunchProtocolsComponentEnabled</key>
+        <false />
+        <key>AutofillAddressEnabled</key>
+        <false />
+        <key>AutofillCreditCardEnabled</key>
+        <false />
+        <key>AutofillMembershipsEnabled</key>
+        <false />
+        <key>BlockThirdPartyCookies</key>
+        <true />
+        <key>BrowserCodeIntegritySetting</key>
+        <integer>2</integer>
+        <key>BrowserNetworkTimeQueriesEnabled</key>
+        <false />
+        <key>BrowserSignin</key>
+        <integer>0</integer>
+        <key>ComposeInlineEnabled</key>
+        <false />
+        <key>ConfigureOnlineTextToSpeech</key>
+        <false />
+        <key>ConfigureShare</key>
+        <integer>1</integer>
+        <key>CopilotAddressBarSuggestionsEnabled</key>
+        <false />
+        <key>CopilotNewTabPageEnabled</key>
+        <false />
+        <key>DefaultBrowserSettingsCampaignEnabled</key>
+        <false />
+        <key>DefaultSensorsSetting</key>
+        <integer>2</integer>
+        <key>DefaultSerialGuardSetting</key>
+        <integer>2</integer>
+        <key>ClearCachedImagesAndFilesOnExit</key>
+        <true />
+        <key>ConfigureDoNotTrack</key>
+        <true />
+        <key>DefaultShareAdditionalOSRegionSetting</key>
+        <integer>2</integer>
+        <key>DiagnosticData</key>
+        <integer>0</integer>
+        <key>DynamicCodeSettings</key>
+        <integer>1</integer>
+        <key>Edge3PSerpTelemetryEnabled</key>
+        <false />
+        <key>EdgeAutofillMlEnabled</key>
+        <false />
+        <key>EdgeCollectionsEnabled</key>
+        <false />
+        <key>EdgeEDropEnabled</key>
+        <false />
+        <key>EdgeHistoryAISearchEnabled</key>
+        <false />
+        <key>EdgeShoppingAssistantEnabled</key>
+        <false />
+        <key>EdgeWalletCheckoutEnabled</key>
+        <false />
+        <key>EdgeWalletEtreeEnabled</key>
+        <false />
+        <key>EditFavoritesEnabled</key>
+        <false />
+        <key>EnableOnlineRevocationChecks</key>
+        <true />
+        <key>EncryptedClientHelloEnabled</key>
+        <true />
+        <key>EnhanceSecurityMode</key>
+        <integer>2</integer>
+        <key>ExperimentationAndConfigurationServiceControl</key>
+        <integer>0</integer>
+        <key>FamilySafetySettingsEnabled</key>
+        <false />
+        <key>FavoritesBarEnabled</key>
+        <false />
+        <key>ImportAutofillFormData</key>
+        <false />
+        <key>ImportBrowserSettings</key>
+        <false />
+        <key>ImportCookies</key>
+        <false />
+        <key>ImportExtensions</key>
+        <false />
+        <key>ImportFavorites</key>
+        <false />
+        <key>ImportHistory</key>
+        <false />
+        <key>ImportHomepage</key>
+        <false />
+        <key>ImportOnEachLaunch</key>
+        <false />
+        <key>ImportOpenTabs</key>
+        <false />
+        <key>ImportPaymentInfo</key>
+        <false />
+        <key>ImportSavedPasswords</key>
+        <false />
+        <key>ImportSearchEngine</key>
+        <false />
+        <key>ImportShortcuts</key>
+        <false />
+        <key>ImportStartupPageSettings</key>
+        <false />
+        <key>HideFirstRunExperience</key>
+        <true />
+        <key>HttpsOnlyMode</key>
+        <string>force_enabled</string>
+        <key>HubsSidebarEnabled</key>
+        <false />
+        <key>InAppSupportEnabled</key>
+        <false />
+        <key>M365LinksAutoOpenCopilotEnabled</key>
+        <false />
+        <key>MicrosoftEdgeInsiderPromotionEnabled</key>
+        <false />
+        <key>MicrosoftEditorProofingEnabled</key>
+        <false />
+        <key>LocalNetworkBlockedForUrls</key>
+        <array>
+            <string>*</string>
+        </array>
+        <key>LoopbackNetworkBlockedForUrls</key>
+        <array>
+            <string>*</string>
+        </array>
+        <key>NetworkPredictionOptions</key>
+        <integer>2</integer>
+        <key>NewPDFReaderEnabled</key>
+        <false />
+        <key>NewPDFReaderWebView2List</key>
+        <false />
+        <key>NonRemovableProfileEnabled</key>
+        <false />
+        <key>OriginKeyedProcessesEnabled</key>
+        <true />
+        <key>PDFSecureMode</key>
+        <true />
+        <key>PaymentMethodQueryEnabled</key>
+        <false />
+        <key>PersonalizationReportingEnabled</key>
+        <false />
+        <key>PersonalizeTopSitesInCustomizeSidebarEnabled</key>
+        <false />
+        <key>QuickSearchShowMiniMenu</key>
+        <false />
+        <key>QuickViewOfficeFilesEnabled</key>
+        <false />
+        <key>ReadAloudEnabled</key>
+        <false />
+        <key>RemoteDebuggingAllowed</key>
+        <false />
+        <key>RelatedMatchesCloudServiceEnabled</key>
+        <false />
+        <key>ResolveNavigationErrorsUseWebService</key>
+        <false />
+        <key>RestrictCoreSharingOnRenderer</key>
+        <false />
+        <key>ShareBrowsingHistoryWithCopilotSearchAllowed</key>
+        <false />
+        <key>SearchSuggestEnabled</key>
+        <false />
+        <key>ShowAcrobatSubscriptionButton</key>
+        <false />
+        <key>ShowMicrosoftRewards</key>
+        <false />
+        <key>ShowRecommendationsEnabled</key>
+        <false />
+        <key>SilentPrintingEnabled</key>
+        <false />
+        <key>SitePerProcess</key>
+        <true />
+        <key>SpeechRecognitionEnabled</key>
+        <false />
+        <key>StaticStorageQuotaEnabled</key>
+        <true />
+        <key>SuperDragDropEnabled</key>
+        <false />
+        <key>SyncDisabled</key>
+        <true />
+        <key>TLS13EarlyDataEnabled</key>
+        <false />
+        <key>TLSCipherSuiteDenyList</key>
+        <array>
+            <string>0xc013</string>
+            <string>0xc014</string>
+            <string>0x009c</string>
+            <string>0x009d</string>
+            <string>0x002f</string>
+            <string>0x0035</string>
+        </array>
+        <key>TabServicesEnabled</key>
+        <false />
+        <key>TextPredictionEnabled</key>
+        <false />
+        <key>TrackingPrevention</key>
+        <integer>3</integer>
+        <key>TranslateEnabled</key>
+        <false />
+        <key>UploadFromPhoneEnabled</key>
+        <false />
+        <key>WebRtcLocalhostIpHandling</key>
+        <string>DisableNonProxiedUdp</string>
+        <key>VisualSearchEnabled</key>
+        <false />
+        <key>WalletDonationEnabled</key>
+        <false />
+    </dict>
 </plist>
