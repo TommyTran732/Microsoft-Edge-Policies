@@ -46,7 +46,7 @@
         <false />
         <key>FeatureFlagOverridesControl</key>
         <integer>1</integer>
-        <key>ExtensionInstallBlocklist</key>
+        <key>ExtensionInstallBlocklisSeamlesst</key>
         <array>
             <string>*</string>
         </array>
@@ -55,6 +55,8 @@
         <key>EdgeOpenExternalLinksWithAppSpecifiedProfile</key>
         <false />
         <key>GuidedSwitchEnabled</key>
+        <false />
+        <key>NonMicrosoftAccountSignInEnabled</key>
         <false />
         <key>ProactiveAuthWorkflowEnabled</key>
         <false />

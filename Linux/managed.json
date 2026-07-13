@@ -29,6 +29,7 @@
     "GenAILocalFoundationalModelSettings": 1,
     "EdgeOpenExternalLinksWithAppSpecifiedProfile": false,
     "GuidedSwitchEnabled": false,
+    "NonMicrosoftAccountSignInEnabled": false,
     "ProactiveAuthWorkflowEnabled": false,
     "SeamlessWebToBrowserSignInEnabled": false,
     "WebToBrowserSignInEnabled": false,
