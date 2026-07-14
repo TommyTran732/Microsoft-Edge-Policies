@@ -17,6 +17,7 @@ For corporate environments, you will need make appropriate changes, including bu
 - Consider setting `DefaultFileSystemWriteGuardSetting` to 2. Jitsi needs this to work, so I am not setting it.
 - Consider settings `NetworkServiceSandboxEnabled` to `true`. This setting causes Edge (or any Chromium browser for that matter) to occasionally lose cookies, so it is not enabled in my policies for now.
 - Consider mandating that `SmartScreenEnabled` and `ScarewareBlockerProtectionEnabled` are set to disabled. `TyposquattingCheckerEnabled` is also potentially invasive, though I have not confirmed this. Please make an issue to let me know of your findings. On macOS, the `SmartScreenEnabled` requires a real MDM, the fake one described later in this document will not work.
+- Remove the Google Docs Offline extension. It shows up in every profile and can be enabled by the user. I am not sure how to deal with this yet. If you figured it out, please let me know.
 
 ## Linux
 
