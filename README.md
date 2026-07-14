@@ -39,6 +39,7 @@ Create `/Library/Tomster Corporation/scripts/apply_prefs.sh`:
 ```
 #!/bin/zsh
 /bin/sleep 5
+/usr/bin/umask 022
 /bin/cp -r '/Library/Tomster Corporation/prefs/' '/Library/Managed Preferences/'
 ```
 
