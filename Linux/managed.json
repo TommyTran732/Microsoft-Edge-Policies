@@ -54,6 +54,7 @@
     "EdgeWorkspacesEnabled": false,
     "EdgeSafeHostingExtensionEnabled": false,
     "AIGenThemesEnabled": false,
+    "BasicAuthOverHttpEnable": false,
     "AdditionalDnsQueryTypesEnabled": true,
     "AddressBarTrendingSuggestEnabled": false,
     "AccessibilityImageLabelsEnabled": false,

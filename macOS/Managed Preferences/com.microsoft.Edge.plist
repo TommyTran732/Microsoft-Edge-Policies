@@ -108,6 +108,8 @@
         <false />
         <key>AIGenThemesEnabled</key>
         <false />
+        <key>BasicAuthOverHttpEnable</key>
+        <false />
         <key>AdditionalDnsQueryTypesEnabled</key>
         <true />
         <key>AddressBarTrendingSuggestEnabled</key>
