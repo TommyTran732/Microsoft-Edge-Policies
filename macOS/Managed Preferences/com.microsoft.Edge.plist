@@ -82,10 +82,6 @@
         <true />
         <key>ScarewareBlockerBlocksDetectedSitesEnabled</key>
         <true />
-        <key>InsecurePrivateNetworkRequestsAllowed</key>
-        <false />
-        <key>PrivateNetworkAccessRestrictionsEnabled</key>
-        <false />
         <key>ProtectedContentIdentifiersAllowed</key>
         <false />
         <key>NewTabPageAllowedBackgroundTypes</key>
