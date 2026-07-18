@@ -264,6 +264,8 @@
         <true />
         <key>PaymentMethodQueryEnabled</key>
         <false />
+        <key>WebCaptureEnabled</key>
+        <false />
         <key>PersonalizationReportingEnabled</key>
         <false />
         <key>PersonalizeTopSitesInCustomizeSidebarEnabled</key>
@@ -287,6 +289,8 @@
         <key>SearchSuggestEnabled</key>
         <false />
         <key>ShowAcrobatSubscriptionButton</key>
+        <false />
+        <key>ShowHistoryThumbnails</key>
         <false />
         <key>ShowMicrosoftRewards</key>
         <false />
