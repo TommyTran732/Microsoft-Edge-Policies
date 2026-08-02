@@ -108,13 +108,15 @@
         <false />
         <key>AdditionalDnsQueryTypesEnabled</key>
         <true />
-        <key>AddressBarTrendingSuggestEnabled</key>
-        <false />
         <key>AccessibilityImageLabelsEnabled</key>
+        <false />
+        <key>AddressBarTrendingSuggestEnabled</key>
         <false />
         <key>AddressBarWorkSearchResultsEnabled</key>
         <false />
         <key>AdditionalSearchBoxEnabled</key>
+        <false />
+        <key>AddressBarClipboardSuggestEnabled</key>
         <false />
         <key>AdsSettingForIntrusiveAdsSites</key>
         <integer>2</integer>
@@ -178,6 +180,8 @@
         <false />
         <key>EdgeHistoryAISearchEnabled</key>
         <false />
+        <key>EdgeReadingModeServiceBasedExtractionEnabled</key>
+        <false />
         <key>EdgeShoppingAssistantEnabled</key>
         <false />
         <key>EdgeWalletCheckoutEnabled</key>
@@ -240,6 +244,8 @@
         <false />
         <key>MicrosoftEditorProofingEnabled</key>
         <false />
+        <key>ProcessIsolationEnabled</key>
+        <true />
         <key>LocalNetworkBlockedForUrls</key>
         <array>
             <string>*</string>

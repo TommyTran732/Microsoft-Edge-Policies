@@ -54,10 +54,11 @@
     "AIGenThemesEnabled": false,
     "BasicAuthOverHttpEnable": false,
     "AdditionalDnsQueryTypesEnabled": true,
-    "AddressBarTrendingSuggestEnabled": false,
     "AccessibilityImageLabelsEnabled": false,
+    "AddressBarTrendingSuggestEnabled": false,
     "AddressBarWorkSearchResultsEnabled": false,
     "AdditionalSearchBoxEnabled": false,
+    "AddressBarClipboardSuggestEnabled": false,
     "AdsSettingForIntrusiveAdsSites": 2,
     "AllowBrowsingWithCopilot": false,
     "AllowBackForwardCacheForCacheControlNoStorePageEnabled": false,
@@ -89,6 +90,7 @@
     "EdgeCollectionsEnabled": false,
     "EdgeEDropEnabled": false,
     "EdgeHistoryAISearchEnabled": false,
+    "EdgeReadingModeServiceBasedExtractionEnabled": false,
     "EdgeShoppingAssistantEnabled": false,
     "EdgeWalletCheckoutEnabled": false,
     "EdgeWalletEtreeEnabled": false,
@@ -120,6 +122,7 @@
     "M365LinksAutoOpenCopilotEnabled": false,
     "MicrosoftEdgeInsiderPromotionEnabled": false,
     "MicrosoftEditorProofingEnabled": false,
+    "ProcessIsolationEnabled": true,
     "LocalNetworkBlockedForUrls": [
         "*"
     ],
