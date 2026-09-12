@@ -82,4 +82,4 @@ I have also noticed that Microsoft Edge does not seem to reload Managed Preferen
 Alternatively, you can try to convert the .plist files to .mobileconfig files and install them as profiles.
 
 # Notes
-Last policy check: August 1, 2026 - Version 151.0.4129.59.
+Last policy check: September 12, 2026 - Version 153.0.4234.32.

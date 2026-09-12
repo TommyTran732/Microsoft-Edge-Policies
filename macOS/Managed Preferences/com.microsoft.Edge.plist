@@ -152,6 +152,8 @@
         <integer>1</integer>
         <key>CopilotAddressBarSuggestionsEnabled</key>
         <false />
+        <key>CopilotCoworkToolActionsEnabled</key>
+        <false />
         <key>CopilotNewTabPageEnabled</key>
         <false />
         <key>DefaultBrowserSettingsCampaignEnabled</key>
@@ -293,8 +295,6 @@
         <key>SearchSuggestEnabled</key>
         <false />
         <key>ShowAcrobatSubscriptionButton</key>
-        <false />
-        <key>ShowHistoryThumbnails</key>
         <false />
         <key>ShowMicrosoftRewards</key>
         <false />
